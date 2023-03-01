@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="863" />
-    <option name="newTranslationDialogX" value="560" />
+    <option name="newTranslationDialogWidth" value="861" />
+    <option name="newTranslationDialogX" value="521" />
     <option name="newTranslationDialogY" value="284" />
     <histories>
+      <item value="生效中" />
+      <item value="生肖中" />
       <item value="Promote Card Response" />
       <item value="Promote CardResponse" />
       <item value="PromoteCardResponse" />
@@ -98,8 +100,6 @@
       <item value="afraid" />
       <item value="上一個" />
       <item value="ended" />
-      <item value="embedd" />
-      <item value="embed" />
     </histories>
     <option name="languageScores">
       <map>
