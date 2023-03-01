@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DockerfileConsumer" type="AUTO_DETECTED" />
-      <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
@@ -12,6 +12,7 @@
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />

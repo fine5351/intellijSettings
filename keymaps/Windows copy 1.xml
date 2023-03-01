@@ -76,7 +76,9 @@
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyDdlAction" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -176,9 +178,7 @@
   <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GotoSymbol" />
-  <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration" />
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -187,7 +187,9 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="InsertLiveTemplate" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Jdbc.OpenConsole.Any" />
   <action id="Jpa.OpenConsole" />
   <action id="JsonPathExportEvaluateResultAction" />
@@ -227,9 +229,6 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
-  <action id="PinActiveEditorTab">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
@@ -259,10 +258,7 @@
   <action id="StoreDefaultLayout">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
-  <action id="StringManipulation.ToHyphenCaseOrCamelCase">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-  </action>
-  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="TableResult.GrowSelection" />
@@ -272,13 +268,8 @@
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.FocusTextFilter" />
-  <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
+  <action id="Vcs.Push" />
   <action id="Vcs.ShowMessageHistory" />
-  <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
-  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="openAssertEqualsDiff" />
