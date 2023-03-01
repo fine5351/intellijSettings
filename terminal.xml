@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="powershell.exe -NoExit -Command CHCP 65001 " />
+    <option name="myTabName" value="local" />
+  </component>
+</application>

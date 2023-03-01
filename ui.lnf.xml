@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="OPEN_TABS_IN_MAIN_WINDOW" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RECENT_FILES_LIMIT" value="5" />
+    <option name="RECENT_LOCATIONS_LIMIT" value="10" />
+  </component>
+</application>

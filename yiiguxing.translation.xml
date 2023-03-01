@@ -1,0 +1,110 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="586" />
+    <option name="newTranslationDialogY" value="354" />
+    <histories>
+      <item value="introspected" />
+      <item value="introspe" />
+      <item value="int" />
+      <item value="ㄍㄣ" />
+      <item value="特權" />
+      <item value="achieve condition" />
+      <item value="achievement condition" />
+      <item value="achievement" />
+      <item value="ㄇ" />
+      <item value="已達成條件" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE_TRADITIONAL" value="15" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669595670508" />
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="phoneticFontFamily" value="Fira Code" />
+    <option name="primaryFontFamily" value="Fira Code" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1676855553892" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+    <option name="translateDocumentation" value="true" />
+    <option name="ttsSource" value="TRANSLATION" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="410" />
+    <option name="newTranslationDialogWidth" value="865" />
+    <option name="newTranslationDialogX" value="365" />
+    <option name="newTranslationDialogY" value="153" />
+    <histories>
+      <item value="except" />
+      <item value="Yum" />
+      <item value="Yum " />
+      <item value="identical" />
+      <item value="iden" />
+      <item value="提領" />
+      <item value="補充" />
+      <item value="補通" />
+      <item value="時間區間" />
+      <item value="過渡" />
+      <item value="過動" />
+      <item value="transition" />
+      <item value="過度" />
+      <item value="reduant" />
+      <item value="re" />
+      <item value="冗於" />
+      <item value="多餘" />
+      <item value="多餘的" />
+      <item value="azure" />
+      <item value="Circuit" />
+      <item value="CircuitBreake" />
+      <item value="CircuitBreaker" />
+      <item value="你們" />
+      <item value="你" />
+      <item value="降級" />
+      <item value="A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS" />
+      <item value="A FRAMEWORK FOR SYSTEM DESIGN&#10;INTERVIEWS" />
+      <item value=": A FRAMEWORK FOR SYSTEM DESIGN&#10;INTERVIEWS" />
+      <item value="BACK-OF-THE-ENVELOPE ESTIMATION" />
+      <item value="dedupe" />
+      <item value="Design deep dive" />
+      <item value="spams" />
+      <item value="open-ended and ambiguous" />
+      <item value="purposely" />
+      <item value="Previous" />
+      <item value="newest" />
+      <item value="大量的" />
+      <item value="2" />
+      <item value="tricky" />
+      <item value="壓力測試" />
+      <item value="mock" />
+      <item value="afraid" />
+      <item value="上一個" />
+      <item value="ended" />
+      <item value="embedd" />
+      <item value="embed" />
+      <item value="別名" />
+      <item value="ㄅㄧ" />
+      <item value="nearest" />
+      <item value="UPDATE" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE_TRADITIONAL" value="74" />
+        <entry key="ENGLISH" value="26" />
+      </map>
+    </option>
+  </component>
+</application>

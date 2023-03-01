@@ -1,0 +1,96 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <disabledLanguages>
+      <option value="AZURE" />
+      <option value="Bazaar" />
+      <option value="BigQuery" />
+      <option value="CPT" />
+      <option value="CSS" />
+      <option value="CassandraQL" />
+      <option value="Chef" />
+      <option value="ClickHouse" />
+      <option value="CloudFoundry" />
+      <option value="Cockroach" />
+      <option value="Cookie" />
+      <option value="CouchbaseQuery" />
+      <option value="Cvs" />
+      <option value="DB2" />
+      <option value="DB2_IS" />
+      <option value="DB2_ZOS" />
+      <option value="DTD" />
+      <option value="Darcs" />
+      <option value="DeployHQ" />
+      <option value="Derby" />
+      <option value="Docker" />
+      <option value="ESLint" />
+      <option value="ElasticBeanstalk" />
+      <option value="Eleventy" />
+      <option value="Exasol" />
+      <option value="Floobits" />
+      <option value="Fossil" />
+      <option value="GitExclude" />
+      <option value="Google Cloud" />
+      <option value="Greenplum" />
+      <option value="HSQLDB" />
+      <option value="HTTP Request" />
+      <option value="HiveQL" />
+      <option value="HtmlCompatible" />
+      <option value="Ignore" />
+      <option value="IgnoreLang" />
+      <option value="IntegrationPerformanceTest" />
+      <option value="JSHint" />
+      <option value="JSUnicodeRegexp" />
+      <option value="JShellLanguage" />
+      <option value="Jetpack" />
+      <option value="Kubernetes Helm" />
+      <option value="Lombok.Config" />
+      <option value="MariaDB" />
+      <option value="Mercurial" />
+      <option value="MongoDB" />
+      <option value="MongoJS" />
+      <option value="Monotone" />
+      <option value="MybatisOgnl" />
+      <option value="Nodemon" />
+      <option value="Npm" />
+      <option value="NuxtJS" />
+      <option value="Oracle" />
+      <option value="OracleSqlPlus" />
+      <option value="Param" />
+      <option value="Perforce" />
+      <option value="PointcutExpression" />
+      <option value="PostgreSQL" />
+      <option value="Prettier" />
+      <option value="Properties" />
+      <option value="RELAX-NG" />
+      <option value="Redshift" />
+      <option value="RegExp" />
+      <option value="SPI" />
+      <option value="SQL" />
+      <option value="SQL92" />
+      <option value="SQLDateTime" />
+      <option value="SQLite" />
+      <option value="SVG" />
+      <option value="Snowflake" />
+      <option value="Sourcegraph" />
+      <option value="SparkSQL" />
+      <option value="StyleLint" />
+      <option value="Stylint" />
+      <option value="Swagger Codegen" />
+      <option value="Sybase" />
+      <option value="TSQL" />
+      <option value="Team Foundation" />
+      <option value="UAST" />
+      <option value="UastContextLanguage" />
+      <option value="Up" />
+      <option value="Vercel" />
+      <option value="Vertica" />
+      <option value="XHTML" />
+      <option value="XsdRegExp" />
+      <option value="Yarn" />
+      <option value="textmate" />
+    </disabledLanguages>
+    <option name="inlayTextColor" value="#0edd0e" />
+    <option name="showIdeCompletions" value="true" />
+  </component>
+</application>

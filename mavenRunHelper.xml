@@ -1,0 +1,27 @@
+<application>
+  <component name="MavenRunHelper">
+    <option name="goals">
+      <Goals>
+        <option name="goals">
+          <list>
+            <Goal>
+              <option name="commandLine" value="clean" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="compile" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="package" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install" />
+            </Goal>
+          </list>
+        </option>
+      </Goals>
+    </option>
+  </component>
+</application>
