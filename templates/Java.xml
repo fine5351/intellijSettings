@@ -1,7 +1,5 @@
 <templateSet group="Java">
-  <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
+  <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
   <template name="try" value="try {&#10;    $SELECTION$&#10;} catch (Exception e) {&#10;    ExceptionLogs.log(log, e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -9,7 +7,6 @@
   </template>
   <template name="else-if" value="else if($CONDITION$){&#10;    $END$&#10;} " description="Add else-if branch" toReformat="true" toShortenFQNames="false">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="trw" value="try ($SELECTION$){&#10;    &#10;} catch (Exception e) {&#10;    ExceptionLogs.log(log, e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
