@@ -1,8 +1,0 @@
-<application>
-  <component name="Go">
-    <option name="detectGoPackageFromClipboard" value="true" />
-    <option name="indentOnEnterInRawStrings" value="true" />
-    <option name="renamePackageOnDirectoryRenaming" value="YES" />
-    <option name="showDocumentationInParameterPopup" value="true" />
-  </component>
-</application>
