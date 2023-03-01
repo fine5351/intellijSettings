@@ -2,9 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DockerfileConsumer" type="AUTO_DETECTED" />
-      <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
@@ -34,6 +33,7 @@
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
 </application>
