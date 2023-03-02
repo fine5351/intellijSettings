@@ -108,6 +108,7 @@
     <option name="CARET_BLINKING_PERIOD" value="250" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
