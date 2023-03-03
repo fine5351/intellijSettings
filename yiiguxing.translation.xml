@@ -50,6 +50,9 @@
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="267" />
     <histories>
+      <item value="添加可調整時間的能力" />
+      <item value="添加可調ㄓㄥ" />
+      <item value="可調整的" />
       <item value="sentinel" />
       <item value="sentry" />
       <item value="s" />
@@ -97,9 +100,6 @@
       <item value="spams" />
       <item value="open-ended and ambiguous" />
       <item value="purposely" />
-      <item value="Previous" />
-      <item value="newest" />
-      <item value="大量的" />
     </histories>
     <option name="languageScores">
       <map>
