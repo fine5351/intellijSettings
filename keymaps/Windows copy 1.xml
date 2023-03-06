@@ -162,18 +162,18 @@
   <action id="GotoAction" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="GotoFile" />
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="GotoRelated" />
   <action id="GotoRow" />
+  <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -186,6 +186,7 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
   <action id="Jdbc.OpenConsole.Any" />
   <action id="Jpa.OpenConsole" />
@@ -197,6 +198,7 @@
   </action>
   <action id="Markdown.Styling.CreateLink" />
   <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveElementLeft">
@@ -269,6 +271,7 @@
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push">
@@ -281,8 +284,10 @@
   <action id="XDebugger.CopyWatch" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt m" />
