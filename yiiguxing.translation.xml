@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="492" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="davinci" />
       <item value="author" />
       <item value="添加可調整時間的能力" />
       <item value="添加可調ㄓㄥ" />
@@ -99,12 +100,11 @@
       <item value="dedupe" />
       <item value="Design deep dive" />
       <item value="spams" />
-      <item value="open-ended and ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="80" />
+        <entry key="CHINESE_TRADITIONAL" value="81" />
         <entry key="ENGLISH" value="28" />
       </map>
     </option>
