@@ -162,11 +162,11 @@
   <action id="GotoAction" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="GotoFile" />
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -182,6 +182,7 @@
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -255,6 +256,10 @@
   <action id="ServiceView.ShowServices" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowFilePath" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SmartSelect" />
   <action id="SonarLint.AnalyzeFiles" />
   <action id="StoreDefaultLayout">
