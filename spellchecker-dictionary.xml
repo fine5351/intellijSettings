@@ -4,11 +4,14 @@
       <w>adoptopenjdk</w>
       <w>appsvc</w>
       <w>buildplatform</w>
+      <w>healthcheck</w>
+      <w>jkopay</w>
       <w>jkos</w>
       <w>msghub</w>
       <w>notsupport</w>
       <w>skywalking</w>
       <w>xpost</w>
+      <w>zxvf</w>
     </words>
   </component>
 </application>
