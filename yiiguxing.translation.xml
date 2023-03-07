@@ -50,6 +50,11 @@
     <option name="newTranslationDialogX" value="492" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="葡萄" />
+      <item value="蒲ㄊㄠ" />
+      <item value="蒲ㄓㄠ" />
+      <item value="ㄆㄨ" />
+      <item value="q" />
       <item value="new york" />
       <item value="架構" />
       <item value="triple" />
@@ -95,17 +100,12 @@
       <item value="CircuitBreaker" />
       <item value="你們" />
       <item value="你" />
-      <item value="降級" />
-      <item value="A FRAMEWORK FOR SYSTEM DESIGN INTERVIEWS" />
-      <item value="A FRAMEWORK FOR SYSTEM DESIGN&#10;INTERVIEWS" />
-      <item value=": A FRAMEWORK FOR SYSTEM DESIGN&#10;INTERVIEWS" />
-      <item value="BACK-OF-THE-ENVELOPE ESTIMATION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="84" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE_TRADITIONAL" value="85" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
