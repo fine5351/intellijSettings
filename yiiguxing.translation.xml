@@ -46,10 +46,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="853" />
+    <option name="newTranslationDialogWidth" value="851" />
     <option name="newTranslationDialogX" value="492" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="架構" />
       <item value="triple" />
       <item value="davinci" />
       <item value="author" />
@@ -99,7 +100,6 @@
       <item value=": A FRAMEWORK FOR SYSTEM DESIGN&#10;INTERVIEWS" />
       <item value="BACK-OF-THE-ENVELOPE ESTIMATION" />
       <item value="dedupe" />
-      <item value="Design deep dive" />
     </histories>
     <option name="languageScores">
       <map>
