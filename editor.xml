@@ -106,6 +106,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="250" />
     <option name="CARET_BLINKING_PERIOD" value="250" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
