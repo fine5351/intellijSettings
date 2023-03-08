@@ -240,8 +240,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="Frozen request 調整" />
             <option value="置步驟" />
+            <option value="Frozen request 調整" />
+            <option value="package" />
           </set>
         </option>
       </SuppressingContext>
