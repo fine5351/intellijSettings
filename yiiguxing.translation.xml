@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="492" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="可以接收訊息" />
+      <item value="可以接受訊息" />
       <item value="router" />
       <item value="葡萄" />
       <item value="蒲ㄊㄠ" />
@@ -98,8 +100,6 @@
       <item value="azure" />
       <item value="Circuit" />
       <item value="CircuitBreake" />
-      <item value="CircuitBreaker" />
-      <item value="你們" />
     </histories>
     <option name="languageScores">
       <map>
