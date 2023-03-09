@@ -252,6 +252,7 @@
         <option name="disabled">
           <set>
             <option value="CHINESE" />
+            <option value="BRETON" />
           </set>
         </option>
       </State>
