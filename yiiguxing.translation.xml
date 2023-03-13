@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="492" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="execution" />
       <item value="semicoion" />
       <item value="semic" />
       <item value="semi" />
@@ -99,12 +100,11 @@
       <item value="時間區間" />
       <item value="過渡" />
       <item value="過動" />
-      <item value="transition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="91" />
+        <entry key="CHINESE_TRADITIONAL" value="92" />
         <entry key="ENGLISH" value="30" />
       </map>
     </option>
