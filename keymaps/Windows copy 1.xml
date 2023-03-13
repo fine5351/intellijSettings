@@ -189,6 +189,7 @@
   </action>
   <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
   <action id="Jdbc.OpenConsole.Any" />
   <action id="Jpa.OpenConsole" />
   <action id="JsonPathExportEvaluateResultAction" />
@@ -235,6 +236,9 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
@@ -256,6 +260,8 @@
   <action id="ServiceView.ShowServices" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowFilePath" />
+  <action id="ShowFilterPopup" />
+  <action id="ShowReformatFileDialog" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -278,6 +284,7 @@
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
