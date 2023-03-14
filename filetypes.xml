@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DockerfileConsumer" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
+      <mapping pattern="Makefile-MRM" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
