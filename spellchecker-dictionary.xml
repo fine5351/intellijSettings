@@ -4,6 +4,7 @@
       <w>adoptopenjdk</w>
       <w>appsvc</w>
       <w>buildplatform</w>
+      <w>flatline</w>
       <w>healthcheck</w>
       <w>jkopay</w>
       <w>jkos</w>
