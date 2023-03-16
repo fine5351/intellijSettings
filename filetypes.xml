@@ -5,6 +5,7 @@
       <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
       <mapping pattern="Makefile-MRM" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
