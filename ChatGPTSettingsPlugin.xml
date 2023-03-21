@@ -1,10 +1,10 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
-    <option name="email" value="fine1101105351@gmail.com" />
-    <option name="password" value="2ixirliL" />
-    <option name="apiKey" value="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" />
+    <option name="email" value="" />
+    <option name="password" value="" />
+    <option name="apiKey" value="" />
     <option name="enableContext" value="true" />
-    <option name="assistantApiKey" value="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" />
+    <option name="assistantApiKey" value="" />
     <option name="enableTokenConsumption" value="true" />
   </component>
 </application>
