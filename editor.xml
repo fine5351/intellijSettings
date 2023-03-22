@@ -14,6 +14,7 @@
     <EXCLUDED_PACKAGE NAME="ch.qos.logback.core.joran.*" />
     <EXCLUDED_PACKAGE NAME="com.amazonaws.util.*" />
     <EXCLUDED_PACKAGE NAME="com.baomidou.mybatisplus.core.toolkit.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.cloud.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.collect.Collections2" />
     <EXCLUDED_PACKAGE NAME="com.microsoft.sqlserver.*" />
@@ -27,7 +28,6 @@
     <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.*" />
     <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
     <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
-    <EXCLUDED_PACKAGE NAME="io.vavr.*" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
     <EXCLUDED_PACKAGE NAME="java.sql.*" />
     <EXCLUDED_PACKAGE NAME="javax.el.*" />
