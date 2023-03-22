@@ -127,6 +127,9 @@
   </action>
   <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo" />
+  <action id="ExternalSystem.ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
