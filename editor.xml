@@ -24,8 +24,6 @@
     <EXCLUDED_PACKAGE NAME="com.zaxxer.*" />
     <EXCLUDED_PACKAGE NAME="freemarker.template.utility.*" />
     <EXCLUDED_PACKAGE NAME="io.github.resilience4j.core.*" />
-    <EXCLUDED_PACKAGE NAME="io.micrometer.common.util.*" />
-    <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.*" />
     <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
     <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
@@ -41,9 +39,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.*" />
-    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang3.StringEscapeUtils" />
     <EXCLUDED_PACKAGE NAME="org.apache.el.stream.*" />
-    <EXCLUDED_PACKAGE NAME="org.apache.http.util.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.javassist.compiler.ast.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.reflection.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.utils.*" />
@@ -51,7 +47,6 @@
     <EXCLUDED_PACKAGE NAME="org.apache.tomcat.*" />
     <EXCLUDED_PACKAGE NAME="org.aspect.weaver.Member" />
     <EXCLUDED_PACKAGE NAME="org.checkerframework.*" />
-    <EXCLUDED_PACKAGE NAME="org.codehaus.commons.*" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.commons.compiler.*" />
     <EXCLUDED_PACKAGE NAME="org.h2.util.*" />
     <EXCLUDED_PACKAGE NAME="org.jboss.*" />
