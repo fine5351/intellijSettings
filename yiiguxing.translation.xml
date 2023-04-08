@@ -50,6 +50,9 @@
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="保底" />
+      <item value="寶底" />
+      <item value="fallback" />
       <item value="interactions" />
       <item value="重算" />
       <item value="重ㄓㄨㄢ" />
@@ -97,15 +100,12 @@
       <item value="添加可調整時間的能力" />
       <item value="添加可調ㄓㄥ" />
       <item value="可調整的" />
-      <item value="sentinel" />
-      <item value="sentry" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="110" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE_TRADITIONAL" value="111" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
