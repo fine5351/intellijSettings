@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="特權" />
       <item value="anyone else" />
       <item value="anyone" />
       <item value="don't worry" />
@@ -99,7 +100,6 @@
       <item value="架構" />
       <item value="triple" />
       <item value="davinci" />
-      <item value="author" />
     </histories>
     <option name="languageScores">
       <map>
