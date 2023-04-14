@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="835" />
+    <option name="newTranslationDialogWidth" value="833" />
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="未使用緩存" />
+      <item value="未使用" />
       <item value="特權" />
       <item value="anyone else" />
       <item value="anyone" />
@@ -98,14 +100,12 @@
       <item value="q" />
       <item value="new york" />
       <item value="架構" />
-      <item value="triple" />
-      <item value="davinci" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="113" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE_TRADITIONAL" value="114" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
