@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="seek" />
       <item value="percentiles" />
       <item value="percentile" />
       <item value="未使用緩存" />
@@ -99,12 +100,11 @@
       <item value="蒲ㄊㄠ" />
       <item value="蒲ㄓㄠ" />
       <item value="ㄆㄨ" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="115" />
+        <entry key="CHINESE_TRADITIONAL" value="116" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
