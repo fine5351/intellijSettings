@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="833" />
+    <option name="newTranslationDialogWidth" value="831" />
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="轉譯" />
+      <item value="轉役" />
       <item value="procedure" />
       <item value="statistics" />
       <item value="seek" />
@@ -98,8 +100,6 @@
       <item value="可以接收訊息" />
       <item value="可以接受訊息" />
       <item value="router" />
-      <item value="葡萄" />
-      <item value="蒲ㄊㄠ" />
     </histories>
     <option name="languageScores">
       <map>
