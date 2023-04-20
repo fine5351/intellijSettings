@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="251" />
     <histories>
+      <item value="last Month" />
+      <item value="lastMonth" />
       <item value="azure" />
       <item value="轉譯" />
       <item value="轉役" />
@@ -98,13 +100,11 @@
       <item value="Java中的Happens-Before关系涉及到多线程编程中的时序关系，因此需要使用数学来描述和证明。以下是一种可能的证明方法：&#10;&#10;定义Happens-Before关系：假设有一组事件E={e1, e2, ..., en}，其中ei表示程序中的某个事件，那么Happens-Before关系可以表示为一个偏序关系R ⊆ E × E，其中对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R。&#10;&#10;定义JVM优化：JVM优化是指JVM在编译Java程序时所进行的一系列优化，包括代码重排、方法内联、循环展开等等。这些优化可以提高程序的执行效率，但可能会破坏Happens-Before关系。&#10;&#10;定义正确性条件：为了证明JVM优化不会破坏Happens-Before关系，需要定义一个正确性条件。假设程序P包含一组事件E，其中ei Happens-Before ej。如果在对P进行JVM优化后，仍然有ei Happens-Before ej，那么称JVM优化是正确的。&#10;&#10;证明正确性条件：可以使用反证法来证明正确性条件。假设对于程序P中的一组事件E={e1, e2, ..., en}，ei Happens-Before ej，但在对P进行JVM优化后，ei不再Happens-Before ej。那么存在一个序列S={e1, e2, ..., ek}，其中ei Happens-Before ej，但在S中ei出现在ej之后。这意味着在执行S的过程中，对于某个共享变量x，存在一个线程T1在ei之后写入x，另一个线程T2在ej之前读取x。由于ei Happens-Before ej，根据Java内存模型的规定，T2应该能够看到T1的写入。但是，在JVM优化后，T2可能会读取到一个早期的值，因为JVM优化可能会将T1的写入操作与T2的读取操作进行重排。这样就破坏了Happens-Before关系，违反了正确性条件。&#10;&#10;证明JVM优化不会破坏正确性条件：为了证明JVM优化不会破坏正确性条件，需要对JVM进行分析。假设JVM进行的优化操作可以表示为一个偏序关系R' ⊆ E × E。如果对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R'，那么可以证明JVM优化不会破坏正确性条件。&#10;&#10;结论：综上所述，可以使用数学方法证明JVM优化可以保证Happens-Before关系。需要定义Happens-Before关系、JVM优化的偏序关系R'，以及正确性条件，并使用反证法证明JVM优化不会破坏正确性条件。这样就可以证明JVM的优化可以保证Happens-Before关系。&#10;&#10;需要注意的是，JVM 的优化是非常复杂的，可能会对程序的执行顺序产生很大的影响。因此，需要对JVM进行深入的分析和研究，才能够确定JVM的优化是否会破坏Happens-Before关系。此外，在编写Java程序时，也需要遵循Java内存模型的规定，避免出现可能破坏Happens-Before关系的代码。" />
       <item value="Java中的Happens-Before关系涉及到多线程编程中的时序关系，因此需要使用数学来描述和证明。以下是一种可能的证明方法：&#10;&#10;定义Happens-Before关系：假设有一组事件E={e1, e2, ..., en}，其中ei表示程序中的某个事件，那么Happens-Before关系可以表示为一个偏序关系R ⊆ E × E，其中对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R。&#10;&#10;定义JVM优化：JVM优化是指JVM在编译Java程序时所进行的一系列优化，包括代码重排、方法内联、循环展开等等。这些优化可以提高程序的执行效率，但可能会破坏Happens-Before关系。&#10;&#10;定义正确性条件：为了证明JVM优化不会破坏Happens-Before关系，需要定义一个正确性条件。假设程序P包含一组事件E，其中ei Happens-Before ej。如果在对P进行JVM优化后，仍然有ei Happens-Before ej，那么称JVM优化是正确的。&#10;&#10;证明正确性条件：可以使用反证法来证明正确性条件。假设对于程序P中的一组事件E={e1, e2, ..., en}，ei Happens-Before ej，但在对P进行JVM优化后，ei不再Happens-Before ej。那么存在一个序列S={e1, e2, ..., ek}，其中ei Happens-Before ej，但在S中ei出现在ej之后。这意味着在执行S的过程中，对于某个共享变量x，存在一个线程T1在ei之后写入x，另一个线程T2在ej之前读取x。由于ei Happens-Before ej，根据Java内存模型的规定，T2应该能够看到T1的写入。但是，在JVM优化后，T2可能会读取到一个早期的值，因为JVM优化可能会将T1的写入操作与T2的读取操作进行重排。这样就破坏了Happens-Before关系，违反了正确性条件。&#10;&#10;证明JVM优化不会破坏正确性条件：为了证明JVM优化不会破坏正确性条件，需要对JVM进行分析。假设JVM进行的优化操作可以表示为一个偏序关系R' ⊆ E × E。如果对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R'，那么可以证明JVM优化不会破坏正确性条件。&#10;&#10;结论：综上所述，可以使用数学方法证明JVM优化可以保证Happens-Before关系。需要定义Happens-Before关系、JVM优化的偏序关系R'，以及正确性条件，并使用反证法证明JVM优化不会破坏正确性条件。这样就可以证明JVM的优化可以保证Happens-Before关系。&#10;&#10;需要注意的是，JVM的优化是非常复杂的，可能会对程序的执行顺序产生很大的影响。因此，需要对JVM进行深入的分析和研究，才能够确定JVM的优化是否会破坏Happens-Before关系。此外，在编写Java程序时，也需要遵循Java内存模型的规定，避免出现可能破坏Happens-Before关系的代码。" />
       <item value="Java中的Happens-Before关系涉及到多线程编程中的时序关系，因此需要使用数学来描述和证明。以下是一种可能的证明方法：&#10;&#10;定义Happens-Before关系：假设有一组事件E={e1, e2, ..., en}，其中ei表示程序中的某个事件，那么Happens-Before关系可以表示为一个偏序关系R ⊆ E × E，其中对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R。&#10;&#10;定义JVM优化：JVM优化是指JVM在编译Java程序时所进行的一系列优化，包括代码重排、方法内联、循环展开等等。这些优化可以提高程序的执行效率，但可能会破坏Happens-Before关系。&#10;&#10;定义正确性条件：为了证明JVM优化不会破坏Happens-Before关系，需要定义一个正确性条件。假设程序P包含一组事件E，其中ei Happens-Before ej。如果在对P进行JVM优化后，仍然有ei Happens-Before ej，那么称JVM优化是正确的。&#10;&#10;证明正确性条件：可以使用反证法来证明正确性条件。假设对于程序P中的一组事件E={e1, e2, ..., en}，ei Happens-Before ej，但在对P进行JVM优化后，ei不再Happens-Before ej。那么存在一个序列S={e1, e2, ..., ek}，其中ei Happens-Before ej，但在S中ei出现在ej之后。这意味着在执行S的过程中，对于某个共享变量x，存在一个线程T1在ei之后写入x，另一个线程T2在ej之前读取x。由于ei Happens-Before ej，根据Java内存模型的规定，T2应该能够看到T1的写入。但是，在JVM优化后，T2可能会读取到一个早期的值，因为JVM优化可能会将T1的写入操作与T2的读取操作进行重排。这样就破坏了Happens-Before关系，违反了正确性条件。&#10;&#10;证明JVM优化不会破坏正确性条件：为了证明JVM优化不会破坏正确性条件，需要对JVM进行分析。假设JVM进行的优化操作可以表示为一个偏序关系R' ⊆ E × E。如果对于任意的ei, ej ∈ E，如果ei Happens-Before ej，则有 (ei, ej) ∈ R'，那么可以证明JVM优化不会破坏正确性条件。&#10;&#10;结论：综上所述，可以使用数学方法证明JVM优化可以保证Happens-Before关系。需要定义Happens-Before关系、JVM" />
-      <item value="可以接收訊息" />
-      <item value="可以接受訊息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="119" />
+        <entry key="CHINESE_TRADITIONAL" value="120" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
