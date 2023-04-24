@@ -7,6 +7,7 @@
         <option value="idea.plugin.protoeditor" />
         <option value="com.intellij.grpc" />
         <option value="com.intellij.spring.websocket" />
+        <option value="org.jetbrains.kotlin" />
       </list>
     </option>
   </component>
