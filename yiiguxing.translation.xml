@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="358" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="velocity" />
       <item value="reduant" />
       <item value="redu" />
       <item value="re" />
@@ -99,12 +100,11 @@
       <item value="lastMonth" />
       <item value="azure" />
       <item value="轉譯" />
-      <item value="轉役" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="143" />
+        <entry key="CHINESE_TRADITIONAL" value="144" />
         <entry key="ENGLISH" value="50" />
       </map>
     </option>
