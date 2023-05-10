@@ -50,6 +50,11 @@
     <option name="newTranslationDialogX" value="358" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="推播" />
+      <item value="pushNotification" />
+      <item value="push notification" />
+      <item value="push notifica" />
+      <item value="push notifi" />
       <item value="剩餘" />
       <item value="velocity" />
       <item value="reduant" />
@@ -78,7 +83,6 @@
       <item value="se" />
       <item value="推送通" />
       <item value="推送通知" />
-      <item value="推播" />
       <item value="architecture" />
       <item value="architechure" />
       <item value="Respect user settings" />
@@ -96,16 +100,12 @@
       <item value="Yet to be improved" />
       <item value="Yet to be improved&#10;" />
       <item value="Keep doing" />
-      <item value="volatile" />
-      <item value="last Month" />
-      <item value="lastMonth" />
-      <item value="azure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="144" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE_TRADITIONAL" value="145" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
