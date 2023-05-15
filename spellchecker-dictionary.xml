@@ -5,6 +5,7 @@
       <w>adoptopenjdk</w>
       <w>appsvc</w>
       <w>buildplatform</w>
+      <w>discarder</w>
       <w>erickuo</w>
       <w>flatline</w>
       <w>healthcheck</w>
