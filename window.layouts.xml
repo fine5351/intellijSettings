@@ -559,7 +559,7 @@
           "id": "Notifications",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.3360577,
+          "weight": 0.3235577,
           "sideWeight": 0.49972796,
           "isSplit": true
         },
@@ -574,7 +574,9 @@
           "id": "Terminal",
           "order": 5,
           "anchor": "BOTTOM",
-          "weight": 0.3360577,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3235577,
           "sideWeight": 0.49972796,
           "isSplit": true
         },
@@ -605,39 +607,41 @@
         },
         {
           "id": "Dependencies",
-          "order": 11,
+          "order": 10,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "SonarLint",
-          "order": 12,
+          "order": 11,
           "anchor": "BOTTOM",
           "weight": 0.3360577
         },
         {
           "id": "Find",
-          "order": 13,
+          "order": 12,
           "anchor": "BOTTOM",
           "weight": 0.55528843
         },
         {
           "id": "Version Control",
-          "order": 14,
+          "order": 13,
           "anchor": "BOTTOM",
-          "weight": 0.48701924,
+          "weight": 0.3235577,
           "sideWeight": 0.50027204
         },
         {
           "id": "Commit",
-          "order": 15,
+          "order": 14,
           "anchor": "BOTTOM",
-          "weight": 0.39471155,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3235577,
           "sideWeight": 0.50027204
         },
         {
           "id": "LuaCheck",
-          "order": 16,
+          "order": 15,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -677,7 +681,8 @@
           "id": "Maven",
           "order": 1,
           "anchor": "RIGHT",
-          "weight": 0.25013012
+          "isShowStripeButton": false,
+          "weight": 0.3361979
         },
         {
           "id": "Database",
@@ -739,7 +744,7 @@
           "id": "Gitlab Pipeline Lint Results",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.3360577,
+          "weight": 0.3361979,
           "isSplit": true
         },
         {
@@ -753,7 +758,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.19817708,
-        "bottom": 0.55528843,
+        "bottom": 0.3235577,
         "right": 0.3361979
       }
     }
