@@ -1,5 +1,6 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
+    <option name="hits" value="1" />
     <option name="lastVersion" value="1.11.1" />
     <option name="remotes">
       <map>
@@ -7,7 +8,8 @@
           <value>
             <state><![CDATA[{
   "remoteUrl": "http://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack",
-  "gitlabUrl": "http://gitlab.jkos.app/api/v4"
+  "gitlabUrl": "http://gitlab.jkos.app/api/v4",
+  "remoteId": 412
 }]]></state>
           </value>
         </entry>
@@ -15,7 +17,8 @@
           <value>
             <state><![CDATA[{
   "remoteUrl": "https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack",
-  "gitlabUrl": "https://gitlab.jkos.app/api/v4"
+  "gitlabUrl": "https://gitlab.jkos.app/api/v4",
+  "remoteId": 412
 }]]></state>
           </value>
         </entry>
