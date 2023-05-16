@@ -1,0 +1,7 @@
+<application>
+  <component name="PluginSettingsState">
+    <option name="gitlabEndpoint" value="https://gitlab.jkos.app/api/v4/projects/412/ci/lint" />
+    <option name="gitlabHost" value="gitlab.jkos.app" />
+    <option name="gitlabProjectID" value="412" />
+  </component>
+</application>
