@@ -27,6 +27,7 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="AliP3CInspectionAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
