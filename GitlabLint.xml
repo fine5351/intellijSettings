@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="hits" value="1" />
+    <option name="hits" value="3" />
     <option name="lastVersion" value="1.11.1" />
     <option name="remotes">
       <map>
