@@ -64,9 +64,7 @@
   <action id="Compile">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-  </action>
+  <action id="CompileDirty" />
   <action id="Console.Open" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateForeignAction">
@@ -203,6 +201,9 @@
   <action id="Markdown.Styling.CreateLink" />
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="MavenRunHelperCleanInstall">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.ImplementMethodAction" />
