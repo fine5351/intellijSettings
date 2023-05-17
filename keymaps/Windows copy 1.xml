@@ -62,10 +62,10 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Compile">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="Console.Open" />
   <action id="Console.TableResult.CompareCells" />
