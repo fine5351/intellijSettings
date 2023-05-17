@@ -22,6 +22,15 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.jkos.app/rd3/spring-template">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.jkos.app/rd3/spring-template",
+  "gitlabUrl": "https://gitlab.jkos.app/api/v4",
+  "remoteId": 401
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
