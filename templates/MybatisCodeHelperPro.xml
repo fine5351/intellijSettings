@@ -27,13 +27,9 @@
   </template>
   <template name="table" value="&lt;!--@Table $var1$--&gt;$END$" description="set table name for current xml" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="tableName" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="sql" value="&lt;!--@sql $var1$--&gt;$END$" description="add injected sql fragment" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="var1" expression="sql" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
-  <template name="ignore" value="&lt;!--@ignoreSql--&gt;$END$" description="ignore if when test injected sql" toReformat="false" toShortenFQNames="false" deactivated="true">
-    <context />
-  </template>
+  <template name="ignore" value="&lt;!--@ignoreSql--&gt;$END$" description="ignore if when test injected sql" toReformat="false" toShortenFQNames="false" deactivated="true" />
 </templateSet>
