@@ -8,6 +8,8 @@
       <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
