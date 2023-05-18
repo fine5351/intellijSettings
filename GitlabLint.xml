@@ -13,6 +13,14 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.jkopay.app/rd4/jkopay-membership-rank">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.jkopay.app/rd4/jkopay-membership-rank",
+  "gitlabUrl": "https://gitlab.jkopay.app/api/v4"
+}]]></state>
+          </value>
+        </entry>
         <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack">
           <value>
             <state><![CDATA[{
