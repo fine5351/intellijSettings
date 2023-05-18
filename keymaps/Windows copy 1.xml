@@ -16,6 +16,9 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDebugToolWindow" />
