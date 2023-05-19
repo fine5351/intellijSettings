@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="564" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="retried" />
+      <item value="ret" />
       <item value="transmission.latency" />
       <item value="Deploied" />
       <item value="Deploy" />
@@ -98,13 +100,11 @@
       <item value="send " />
       <item value="se" />
       <item value="推送通" />
-      <item value="推送通知" />
-      <item value="architecture" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="155" />
+        <entry key="CHINESE_TRADITIONAL" value="156" />
         <entry key="ENGLISH" value="53" />
       </map>
     </option>
