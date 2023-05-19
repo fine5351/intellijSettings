@@ -61,6 +61,7 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.boot.autoconfigure.web.*" />
     <EXCLUDED_PACKAGE NAME="org.springframework.cglib.*" />
     <EXCLUDED_PACKAGE NAME="org.springframework.util.CollectionUtils" />
+    <EXCLUDED_PACKAGE NAME="org.threeten.bp.*" />
     <EXCLUDED_PACKAGE NAME="reactor.*" />
   </component>
   <component name="CodeVisionSettings">
