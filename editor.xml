@@ -17,6 +17,7 @@
     <EXCLUDED_PACKAGE NAME="com.google.cloud.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.collect.Collections2" />
+    <EXCLUDED_PACKAGE NAME="com.google.firebase.database.annotations.*" />
     <EXCLUDED_PACKAGE NAME="com.microsoft.sqlserver.*" />
     <EXCLUDED_PACKAGE NAME="com.mysql.cj.*" />
     <EXCLUDED_PACKAGE NAME="com.sun.*" />
@@ -48,7 +49,11 @@
     <EXCLUDED_PACKAGE NAME="org.aspect.weaver.Member" />
     <EXCLUDED_PACKAGE NAME="org.checkerframework.*" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.commons.compiler.*" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.commons.nullanalysis.*" />
     <EXCLUDED_PACKAGE NAME="org.h2.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotBlank" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotEmpty" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotNull" />
     <EXCLUDED_PACKAGE NAME="org.jboss.*" />
     <EXCLUDED_PACKAGE NAME="org.jetbrains.*" />
     <EXCLUDED_PACKAGE NAME="org.joda.*" />
