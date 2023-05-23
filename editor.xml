@@ -25,6 +25,7 @@
     <EXCLUDED_PACKAGE NAME="com.zaxxer.*" />
     <EXCLUDED_PACKAGE NAME="freemarker.template.utility.*" />
     <EXCLUDED_PACKAGE NAME="io.github.resilience4j.core.*" />
+    <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.StringUtils" />
     <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
     <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
