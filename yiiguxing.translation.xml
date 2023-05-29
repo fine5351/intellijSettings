@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="564" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="過期" />
       <item value="搭乘" />
       <item value="乘車" />
       <item value="T/6" />
@@ -99,7 +100,6 @@
       <item value="訊息匣" />
       <item value="send notification&#10;push notificatin&#10;" />
       <item value="send notification&#10;push notificatin" />
-      <item value="send notification&#10;" />
     </histories>
     <option name="languageScores">
       <map>
