@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="803" />
+    <option name="newTranslationDialogWidth" value="801" />
     <option name="newTranslationDialogX" value="564" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="立即" />
+      <item value="immidate" />
       <item value="過期" />
       <item value="搭乘" />
       <item value="乘車" />
@@ -98,14 +100,12 @@
       <item value="boxed message" />
       <item value="boxedmessage" />
       <item value="訊息匣" />
-      <item value="send notification&#10;push notificatin&#10;" />
-      <item value="send notification&#10;push notificatin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="158" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE_TRADITIONAL" value="159" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
