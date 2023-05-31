@@ -50,13 +50,11 @@
       <option value="MongoDB" />
       <option value="MongoJS" />
       <option value="Monotone" />
-      <option value="MybatisOgnl" />
       <option value="Nodemon" />
       <option value="Npm" />
       <option value="NuxtJS" />
       <option value="Oracle" />
       <option value="OracleSqlPlus" />
-      <option value="Param" />
       <option value="Perforce" />
       <option value="PointcutExpression" />
       <option value="PostgreSQL" />
