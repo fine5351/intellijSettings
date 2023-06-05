@@ -90,5 +90,6 @@
     </disabledLanguages>
     <option name="inlayTextColor" value="#0edd0e" />
     <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
   </component>
 </application>
