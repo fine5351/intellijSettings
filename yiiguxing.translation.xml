@@ -50,6 +50,10 @@
     <option name="newTranslationDialogX" value="564" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="推播通知" />
+      <item value="推播訊息" />
+      <item value="推播[ㄩ" />
+      <item value="推播" />
       <item value="Schedule" />
       <item value="Scheduled" />
       <item value="i don't know what are you talk about, please ask other people" />
@@ -82,7 +86,6 @@
       <item value="lettuce" />
       <item value="lettecue" />
       <item value="don't be afraid" />
-      <item value="推播" />
       <item value="pushNotification" />
       <item value="push notification" />
       <item value="push notifica" />
@@ -97,9 +100,6 @@
       <item value="Apigee" />
       <item value="定時任務" />
       <item value="排程" />
-      <item value="logined" />
-      <item value="list" />
-      <item value="lia" />
     </histories>
     <option name="languageScores">
       <map>
