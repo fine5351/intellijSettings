@@ -46,10 +46,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="799" />
+    <option name="newTranslationDialogWidth" value="797" />
     <option name="newTranslationDialogX" value="564" />
     <option name="newTranslationDialogY" value="142" />
     <histories>
+      <item value="沒有需要重送的資料" />
       <item value="推播通知" />
       <item value="推播訊息" />
       <item value="推播[ㄩ" />
@@ -99,7 +100,6 @@
       <item value="多餘的" />
       <item value="Apigee" />
       <item value="定時任務" />
-      <item value="排程" />
     </histories>
     <option name="languageScores">
       <map>
