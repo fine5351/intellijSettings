@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="fileExclusions">
       <list>
         <option value="**/*.yml" />
@@ -65,7 +66,6 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -79,12 +79,12 @@
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S2160" />
       <Rule active="false" key="java:S1186" />
-      <Rule active="false" key="java:S2142" />
       <Rule active="false" key="java:S3066" />
+      <Rule active="false" key="java:S2142" />
       <Rule active="false" key="java:S2187" />
-      <Rule active="false" key="java:S3740" />
-      <Rule active="false" key="java:S1170" />
       <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S1170" />
+      <Rule active="false" key="java:S3740" />
       <Rule active="false" key="java:S5976" />
       <Rule active="false" key="java:S2259" />
     </rules>
