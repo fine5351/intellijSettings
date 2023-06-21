@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="compatible" />
       <item value="need to send with socket event size" />
       <item value="need to send with fcm event size" />
       <item value="For the primary application or service you work on, how often does your organization deploy code to production or release it to end users?&#10;" />
@@ -99,12 +100,11 @@
       <item value="retried" />
       <item value="ret" />
       <item value="transmission.latency" />
-      <item value="Deploied" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="178" />
+        <entry key="CHINESE_TRADITIONAL" value="179" />
         <entry key="ENGLISH" value="63" />
       </map>
     </option>
