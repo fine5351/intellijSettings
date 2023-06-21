@@ -50,6 +50,12 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="能批次" />
+      <item value="能" />
+      <item value="能披" />
+      <item value="可批次" />
+      <item value="可以批次" />
+      <item value="可" />
       <item value="the willingness to go to jail" />
       <item value="compatible" />
       <item value="need to send with socket event size" />
@@ -94,12 +100,6 @@
       <item value="immidate" />
       <item value="過期" />
       <item value="搭乘" />
-      <item value="乘車" />
-      <item value="T/6" />
-      <item value="繳費" />
-      <item value="RUL3" />
-      <item value="retried" />
-      <item value="ret" />
     </histories>
     <option name="languageScores">
       <map>
