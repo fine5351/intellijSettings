@@ -34,7 +34,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686964435030" />
+    <option name="lastTrimTime" value="1687831388475" />
   </component>
   <component name="Translation.Settings">
     <option name="phoneticFontFamily" value="DialogInput" />
@@ -50,6 +50,16 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="It's your summer of growth!&#10;LIMITED TIME ONLY - Lock in your lifetime discount of 20% for AIPRM Elite.&#10;Connect ChatGPT to the Internet. View Prompt Sources. More lists, private prompts, and custom writing styles.&#10;Use code SUMMERLEET20 (Offer ends June 30th)" />
+      <item value="transition per second&#10;transaction per second" />
+      <item value="transition per second&#10;transaction per se" />
+      <item value="transition per second&#10;transaction" />
+      <item value="transition per second&#10;transact" />
+      <item value="transition per second&#10;" />
+      <item value="transition per second" />
+      <item value="transition per s" />
+      <item value="transition" />
+      <item value="transi" />
       <item value="能批次" />
       <item value="能" />
       <item value="能披" />
@@ -90,22 +100,12 @@
       <item value="推播訊息" />
       <item value="推播[ㄩ" />
       <item value="推播" />
-      <item value="Schedule" />
-      <item value="Scheduled" />
-      <item value="i don't know what are you talk about, please ask other people" />
-      <item value="legacy " />
-      <item value="結束" />
-      <item value="According to its JavaDocs, the intermediate Stream operation java.util.Stream.peek() “exists mainly to support debugging” purposes.&#10;A key difference with other intermediate Stream operations is that the Stream implementation is free to skip calls to peek() for optimization purpose. This can lead to peek() being unexpectedly called only for some or none of the elements in the Stream.&#10;As a consequence, relying on peek() without careful consideration can lead to error-prone code.&#10;This rule raises an issue for each use of peek() to be sure that it is challenged and validated by the team to be meant for production debugging/logging purposes." />
-      <item value="立即" />
-      <item value="immidate" />
-      <item value="過期" />
-      <item value="搭乘" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="180" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE_TRADITIONAL" value="182" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
