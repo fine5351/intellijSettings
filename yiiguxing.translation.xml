@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="速率" />
       <item value="cancelled" />
       <item value="PayLoad" />
       <item value="payLoad" />
@@ -99,7 +100,6 @@
       <item value="engin" />
       <item value="enogin" />
       <item value="failed" />
-      <item value="failure" />
     </histories>
     <option name="languageScores">
       <map>
