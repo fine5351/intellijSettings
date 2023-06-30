@@ -46,10 +46,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1467" />
+    <option name="newTranslationDialogWidth" value="1465" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="take easy" />
       <item value="速率" />
       <item value="cancelled" />
       <item value="PayLoad" />
@@ -99,12 +100,11 @@
       <item value="enigin" />
       <item value="engin" />
       <item value="enogin" />
-      <item value="failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="186" />
+        <entry key="CHINESE_TRADITIONAL" value="187" />
         <entry key="ENGLISH" value="67" />
       </map>
     </option>
