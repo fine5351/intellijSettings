@@ -46,10 +46,16 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1465" />
+    <option name="newTranslationDialogWidth" value="1463" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="whitin google, there is a strong distaste for &quot;because i said so&quot;" />
+      <item value="whitin google, there is a strong distaste for because i said so&quot;" />
+      <item value="whitin google, there is a strong distaste for because i said so" />
+      <item value="whitin google, there is a strong distaste for because id" />
+      <item value="whitin google, there is a strong distaste for be" />
+      <item value="whit" />
       <item value="outrank" />
       <item value="take easy" />
       <item value="速率" />
@@ -94,17 +100,11 @@
       <item value="可以發送" />
       <item value="可以發松" />
       <item value="將 value 加進 set" />
-      <item value="將 value 佳進 set" />
-      <item value="implicit" />
-      <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
-      <item value="引擎" />
-      <item value="enigin" />
-      <item value="engin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="188" />
+        <entry key="CHINESE_TRADITIONAL" value="189" />
         <entry key="ENGLISH" value="67" />
       </map>
     </option>
