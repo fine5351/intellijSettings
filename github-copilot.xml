@@ -38,7 +38,6 @@
       <option value="HtmlCompatible" />
       <option value="Ignore" />
       <option value="IgnoreLang" />
-      <option value="IntegrationPerformanceTest" />
       <option value="JSHint" />
       <option value="JSUnicodeRegexp" />
       <option value="JShellLanguage" />
@@ -79,7 +78,6 @@
       <option value="TSQL" />
       <option value="Team Foundation" />
       <option value="UAST" />
-      <option value="UastContextLanguage" />
       <option value="Up" />
       <option value="Vercel" />
       <option value="Vertica" />
