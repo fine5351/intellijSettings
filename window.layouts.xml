@@ -1,0 +1,767 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Bookmarks",
+          "order": 0,
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Web",
+          "order": 1,
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Learn",
+          "order": 2
+        },
+        {
+          "id": "Project",
+          "order": 3,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.10541385
+        },
+        {
+          "id": "Jms Messenger",
+          "order": 4,
+          "weight": 0.32977617
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 5,
+          "isVisible": true,
+          "weight": 0.32977617
+        },
+        {
+          "id": "OpenAPI",
+          "order": 6,
+          "isSplit": true
+        },
+        {
+          "id": "BigDataToolWindow",
+          "order": 7,
+          "weight": 0.120510146
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "hadoop-toolwindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "KafkaToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "EmrToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dependency Checker",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "FlinkToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "DatabricksToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Internal Method Tracing",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "zeppelin-shell-toolwindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "HiveToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "GlueToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "SparkMonitoringToolWindow",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Commit",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.31875,
+          "sideWeight": 0.49946725
+        },
+        {
+          "id": "Version Control",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "weight": 0.40817308,
+          "sideWeight": 0.49893445
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.39402175,
+          "sideWeight": 0.5020094
+        },
+        {
+          "id": "Profiler",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Jira",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.45528847
+        },
+        {
+          "id": "Problems View",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.30817306
+        },
+        {
+          "id": "Dependencies",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33701923,
+          "sideWeight": 0.50053275
+        },
+        {
+          "id": "TODO",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Jms Browser",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Java Enterprise",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Inspection",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Spring",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Endpoints",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "SpotBugs",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.23701923,
+          "sideWeight": 0.48160982
+        },
+        {
+          "id": "SonarLint",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "weight": 0.24278846,
+          "sideWeight": 0.49946725
+        },
+        {
+          "id": "Terminal",
+          "order": 18,
+          "anchor": "BOTTOM",
+          "weight": 0.31875,
+          "sideWeight": 0.50053275,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 20,
+          "anchor": "BOTTOM",
+          "weight": 0.33509615,
+          "sideWeight": 0.48028767,
+          "isSplit": true
+        },
+        {
+          "id": "Jenkins Linter",
+          "order": 22,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 23,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.2889423
+        },
+        {
+          "id": "Mybatis Sql",
+          "order": 25,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.42548078
+        },
+        {
+          "id": "MyBatis Log Plugin Free",
+          "order": 28,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Python Packages",
+          "order": 29,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Anonymous Apex",
+          "order": 31,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Log Analyzer",
+          "order": 32,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Illuminated Cloud",
+          "order": 33,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Salesforce Functions",
+          "order": 34,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "SOQL Query",
+          "order": 35,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 36,
+          "anchor": "BOTTOM",
+          "weight": 0.3110577,
+          "sideWeight": 0.51817703
+        },
+        {
+          "id": "Build",
+          "order": 37,
+          "anchor": "BOTTOM",
+          "weight": 0.3360577
+        },
+        {
+          "id": "Coverage",
+          "order": 44,
+          "anchor": "BOTTOM",
+          "weight": 0.32932693
+        },
+        {
+          "id": "Run",
+          "order": 45,
+          "anchor": "BOTTOM",
+          "weight": 0.32451922
+        },
+        {
+          "id": "Services",
+          "order": 46,
+          "anchor": "BOTTOM",
+          "weight": 0.28605768,
+          "sideWeight": 0.49946725
+        },
+        {
+          "id": "Audit Problems",
+          "order": 50,
+          "anchor": "BOTTOM",
+          "isSplit": true
+        },
+        {
+          "id": "依赖",
+          "order": 51,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3304862
+        },
+        {
+          "id": "String Manipulation",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Word Book",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Mybatis datasource",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Layout Validation",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Gradle",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Request List",
+          "order": 0,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "make",
+          "order": 1,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Bean Validation",
+          "order": 2,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Hierarchy",
+          "order": 3,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617
+        },
+        {
+          "id": "Sequence Diagram",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.5031234
+        },
+        {
+          "id": "SciView",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617
+        },
+        {
+          "id": "TMS",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isVisible": true
+        },
+        {
+          "id": "Structure",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.17256637
+        },
+        {
+          "id": "Maven",
+          "order": 8,
+          "anchor": "RIGHT",
+          "weight": 0.18818323
+        },
+        {
+          "id": "Json Parser",
+          "order": 9,
+          "anchor": "RIGHT",
+          "weight": 0.19651224
+        },
+        {
+          "id": "Database",
+          "order": 10,
+          "anchor": "RIGHT",
+          "floatingBounds": [
+            1952,
+            0,
+            200,
+            773
+          ],
+          "weight": 0.21893299
+        },
+        {
+          "id": "Redis Helper",
+          "order": 11,
+          "anchor": "RIGHT",
+          "floatingBounds": [
+            637,
+            529,
+            200,
+            661
+          ],
+          "weight": 0.1460177
+        },
+        {
+          "id": "PlantUML",
+          "order": 12,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.14549714
+        },
+        {
+          "id": "API Security Audit",
+          "order": 13,
+          "anchor": "RIGHT",
+          "weight": 0.32977617
+        },
+        {
+          "id": "Key Promoter X",
+          "order": 14,
+          "anchor": "RIGHT",
+          "weight": 0.14549714
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 15,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617,
+          "isSplit": true
+        }
+      ],
+      "v2": [
+        {
+          "id": "Bookmarks",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.19817708
+        },
+        {
+          "id": "Leetcode",
+          "order": 1,
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Leetcode Console",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Java Enterprise",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Dependency Checker",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Mybatis Sql",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.32977617
+        },
+        {
+          "id": "Services",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            961,
+            0,
+            958,
+            1039
+          ],
+          "type": "WINDOWED",
+          "weight": 0.3360577
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            1,
+            0,
+            958,
+            1039
+          ],
+          "type": "WINDOWED",
+          "isShowStripeButton": false,
+          "weight": 0.48701924
+        },
+        {
+          "id": "Notifications",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.3235577,
+          "sideWeight": 0.49972796,
+          "isSplit": true
+        },
+        {
+          "id": "SpotBugs",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33028847
+        },
+        {
+          "id": "Terminal",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3235577,
+          "sideWeight": 0.49972796,
+          "isSplit": true
+        },
+        {
+          "id": "Spring",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.37548077
+        },
+        {
+          "id": "Problems",
+          "order": 7,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "weight": 0.3360577,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "Build",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.32740384
+        },
+        {
+          "id": "Dependencies",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "SonarLint",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.3360577
+        },
+        {
+          "id": "Find",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.55528843
+        },
+        {
+          "id": "Version Control",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "weight": 0.3235577,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "Commit",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3235577,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "LuaCheck",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "String Manipulation",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Mybatis datasource",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Beans",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.13872983
+        },
+        {
+          "id": "Maven",
+          "order": 1,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.3361979
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.3486979
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Key Promoter X",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.32994792
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617
+        },
+        {
+          "id": "PlantUML",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Json Parser",
+          "order": 8,
+          "anchor": "RIGHT",
+          "weight": 0.3486979
+        },
+        {
+          "id": "Web Inspector",
+          "order": 9,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "make",
+          "order": 10,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32977617
+        },
+        {
+          "id": "Gitlab Pipeline Lint Results",
+          "order": 11,
+          "anchor": "RIGHT",
+          "weight": 0.3361979,
+          "isSplit": true
+        },
+        {
+          "id": "Jenkins Linter",
+          "order": 12,
+          "anchor": "RIGHT",
+          "weight": 0.3361979,
+          "isSplit": true
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.19817708,
+        "bottom": 0.3235577,
+        "right": 0.3361979
+      }
+    }
+  }
+}]]></component>
+</application>

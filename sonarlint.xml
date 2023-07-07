@@ -1,0 +1,92 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*.yml" />
+      </list>
+    </option>
+    <option name="nodejsPath" value="C:\work\Microsoft Visual Studio\Community\2022\Msbuild\Microsoft\VisualStudio\NodeJs\node.exe" />
+    <option name="rulesByKey">
+      <map>
+        <entry key="java:S112">
+          <value>
+            <Rule active="false" key="java:S112" />
+          </value>
+        </entry>
+        <entry key="java:S1170">
+          <value>
+            <Rule active="false" key="java:S1170" />
+          </value>
+        </entry>
+        <entry key="java:S1186">
+          <value>
+            <Rule active="false" key="java:S1186" />
+          </value>
+        </entry>
+        <entry key="java:S1192">
+          <value>
+            <Rule active="false" key="java:S1192" />
+          </value>
+        </entry>
+        <entry key="java:S2142">
+          <value>
+            <Rule active="false" key="java:S2142" />
+          </value>
+        </entry>
+        <entry key="java:S2160">
+          <value>
+            <Rule active="false" key="java:S2160" />
+          </value>
+        </entry>
+        <entry key="java:S2187">
+          <value>
+            <Rule active="false" key="java:S2187" />
+          </value>
+        </entry>
+        <entry key="java:S2259">
+          <value>
+            <Rule active="false" key="java:S2259" />
+          </value>
+        </entry>
+        <entry key="java:S3066">
+          <value>
+            <Rule active="false" key="java:S3066" />
+          </value>
+        </entry>
+        <entry key="java:S3740">
+          <value>
+            <Rule active="false" key="java:S3740" />
+          </value>
+        </entry>
+        <entry key="java:S5976">
+          <value>
+            <Rule active="false" key="java:S5976" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar-qube.jkopay.app" />
+          <token>dfd9dfdbdfdfdff5dfc8df9adf93df9ddf9edfc8df9bdf9fdfcfdf93df9bdfcfdf9adfc9df9ddf98dfc9dfcedf9cdf9cdf9bdfcedfccdf9bdfc8df9cdfccdf9bdfc8dfccdf98df9bdf9adf98dfcedf99dfc8df9ddf9fdfcb</token>
+          <option name="name" value="sit" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S112" />
+      <Rule active="false" key="java:S2160" />
+      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S3066" />
+      <Rule active="false" key="java:S2142" />
+      <Rule active="false" key="java:S2187" />
+      <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S1170" />
+      <Rule active="false" key="java:S3740" />
+      <Rule active="false" key="java:S5976" />
+      <Rule active="false" key="java:S2259" />
+    </rules>
+  </component>
+</application>
