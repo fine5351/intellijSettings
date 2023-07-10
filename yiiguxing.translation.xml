@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="judgeRetryStatus" />
       <item value="Scan the QR code to access the Must-Read articles on &#10;system design. These articles have helped three &#10;engineers successfully pass system design interviews &#10;and secure positions at Meta!" />
       <item value="Identifying an Engineering-Friendly Work &#10;Environment&#10;1. Decision Making&#10;How do you measure the success of a goal, in terms of business and &#10;technology? Is data-driven analysis or subjective intuition more influential in &#10;decision-making?&#10;2. Engineering Efficiency&#10;What is the timeline from code commit to public release? What are the &#10;necessary steps involved in the release process for backend, frontend, and &#10;mobile development?&#10;3. Balancing Business Goals and Technical Debt&#10;How do you reach a balance between business objectives and managing &#10;technical debt? How would you prioritize these goals in the event of resource &#10;conflicts" />
       <item value="Ability to ask (good) &#10;questions.&#10;● Address on solving &#10;problems systematically.&#10;● Providing constructive &#10;feedback.&#10;● Be respectful but &#10;straightforward" />
@@ -99,12 +100,11 @@
       <item value="transition per second&#10;transact" />
       <item value="transition per second&#10;" />
       <item value="transition per second" />
-      <item value="transition per s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="209" />
+        <entry key="CHINESE_TRADITIONAL" value="210" />
         <entry key="ENGLISH" value="86" />
       </map>
     </option>
