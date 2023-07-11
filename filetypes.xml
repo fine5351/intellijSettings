@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="DS_Store" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileInternal" type="AUTO_DETECTED" />
       <mapping pattern="Makefile-MRM" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileConsumer" type="AUTO_DETECTED" />
