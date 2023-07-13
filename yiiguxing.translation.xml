@@ -46,10 +46,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1461" />
+    <option name="newTranslationDialogWidth" value="1459" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="優化" />
       <item value="credential" />
       <item value="business" />
       <item value="Canvas" />
@@ -99,7 +100,6 @@
       <item value="payloaf" />
       <item value="sprint" />
       <item value="It's your summer of growth!&#10;LIMITED TIME ONLY - Lock in your lifetime discount of 20% for AIPRM Elite.&#10;Connect ChatGPT to the Internet. View Prompt Sources. More lists, private prompts, and custom writing styles.&#10;Use code SUMMERLEET20 (Offer ends June 30th)" />
-      <item value="transition per second&#10;transaction per second" />
     </histories>
     <option name="languageScores">
       <map>
