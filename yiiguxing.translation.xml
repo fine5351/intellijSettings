@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="developing" />
       <item value="Exists" />
       <item value="機敏資料" />
       <item value="ru aup3" />
@@ -99,12 +100,11 @@
       <item value="take easy" />
       <item value="速率" />
       <item value="cancelled" />
-      <item value="PayLoad" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="219" />
+        <entry key="CHINESE_TRADITIONAL" value="220" />
         <entry key="ENGLISH" value="89" />
       </map>
     </option>
