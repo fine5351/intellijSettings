@@ -69,5 +69,19 @@
         <option name="textWithMnemonic" value="SCREAMING_SNAKE_CASE / camelCase" />
       </UniversalActionModel>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_TW" />
+      </SortSettings>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="sortSettings">
+          <SortSettings>
+            <option name="collatorLanguageTag" value="zh_TW" />
+          </SortSettings>
+        </option>
+      </SortTokensModel>
+    </option>
   </component>
 </application>
