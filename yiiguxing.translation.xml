@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1455" />
+    <option name="newTranslationDialogWidth" value="1453" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="desensitize" />
+      <item value="desensitive" />
       <item value="Backstage" />
       <item value="optimize" />
       <item value="optmize" />
@@ -98,14 +100,12 @@
       <item value="whitin google, there is a strong distaste for &quot;because i said so&quot;" />
       <item value="whitin google, there is a strong distaste for because i said so&quot;" />
       <item value="whitin google, there is a strong distaste for because i said so" />
-      <item value="whitin google, there is a strong distaste for because id" />
-      <item value="whitin google, there is a strong distaste for be" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="225" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE_TRADITIONAL" value="227" />
+        <entry key="ENGLISH" value="91" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
