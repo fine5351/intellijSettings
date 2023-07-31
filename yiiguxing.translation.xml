@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="CamelHumps" />
       <item value="desensitize" />
       <item value="desensitive" />
       <item value="Backstage" />
@@ -99,12 +100,11 @@
       <item value="Dive deep&#10;Dive deeply into every single detai" />
       <item value="whitin google, there is a strong distaste for &quot;because i said so&quot;" />
       <item value="whitin google, there is a strong distaste for because i said so&quot;" />
-      <item value="whitin google, there is a strong distaste for because i said so" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="227" />
+        <entry key="CHINESE_TRADITIONAL" value="228" />
         <entry key="ENGLISH" value="91" />
         <entry key="ESPERANTO" value="1" />
       </map>
