@@ -50,6 +50,7 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="添加前綴" />
       <item value="隱藏" />
       <item value="引ㄘㄤ˙" />
       <item value="Mitagate " />
@@ -99,13 +100,12 @@
       <item value="Exploitation and exploration" />
       <item value="Recap&#10;● Some advice for the beginning of your career. (0~5th &#10;years)&#10;○ Be passionate about your work.&#10;○ Lay the groundwork by diving deep into your field.&#10;○ Don't cut corners" />
       <item value="recap" />
-      <item value="Dive deep&#10;Dive deeply into every single detail" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="229" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE_TRADITIONAL" value="230" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
