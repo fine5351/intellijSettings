@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="header" />
+      <item value="head" />
       <item value="添加前綴" />
       <item value="隱藏" />
       <item value="引ㄘㄤ˙" />
@@ -98,13 +100,11 @@
       <item value="I have a hammer, &#10;so everything &#10;looks like a nail" />
       <item value="I have a hammer, &#10;so everything &#10;looks like a nai" />
       <item value="Exploitation and exploration" />
-      <item value="Recap&#10;● Some advice for the beginning of your career. (0~5th &#10;years)&#10;○ Be passionate about your work.&#10;○ Lay the groundwork by diving deep into your field.&#10;○ Don't cut corners" />
-      <item value="recap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="230" />
+        <entry key="CHINESE_TRADITIONAL" value="231" />
         <entry key="ENGLISH" value="92" />
         <entry key="ESPERANTO" value="1" />
       </map>
