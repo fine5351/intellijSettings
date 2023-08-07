@@ -65,7 +65,8 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Compile" />
-  <action id="CompileDirty">
+  <action id="CompileDirty" />
+  <action id="CompileProject">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Console.Open" />
