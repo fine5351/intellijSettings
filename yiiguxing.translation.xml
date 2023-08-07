@@ -46,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1453" />
+    <option name="newTranslationDialogWidth" value="1451" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="剩餘的事件" />
+      <item value="剩餘的" />
       <item value="header" />
       <item value="head" />
       <item value="添加前綴" />
@@ -98,8 +100,6 @@
       <item value="Extensive reading&#10;■ Engage in a substantial amount of reading.&#10;○ You are not alone&#10;■ Remember that you are not alone in facing &#10;challenges. (Unless you work for a tier-1 company.)&#10;○ Wisdom of Crowds&#10;■ The principle suggests that diverse groups can &#10;collectively make better decisions than individuals.&#10;○ Refresh Eyes&#10;■ Take breaks and revisit your projects after a period of &#10;time. This allows you to gain new insights.&#10;○ Brain Training Exercises&#10;■ Ex: How will you design a system for covid-19 vaccine &#10;registration?&#10;W" />
       <item value="xtensive reading&#10;■ Engage in a substantial amount of reading.&#10;○ You are not alone&#10;■ Remember that you are not alone in facing &#10;challenges. (Unless you work for a tier-1 company.)&#10;○ Wisdom of Crowds&#10;■ The principle suggests that diverse groups can &#10;collectively make better decisions than individuals.&#10;○ Refresh Eyes&#10;■ Take breaks and revisit your projects after a period of &#10;time. This allows you to gain new insights.&#10;○ Brain Training Exercises&#10;■ Ex: How will you design a system for covid-19 vaccine &#10;registration?&#10;W" />
       <item value="I have a hammer, &#10;so everything &#10;looks like a nail" />
-      <item value="I have a hammer, &#10;so everything &#10;looks like a nai" />
-      <item value="Exploitation and exploration" />
     </histories>
     <option name="languageScores">
       <map>
