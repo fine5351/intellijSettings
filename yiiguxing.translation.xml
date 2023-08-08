@@ -46,10 +46,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1451" />
+    <option name="newTranslationDialogWidth" value="1449" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="帝皇" />
       <item value="儲存檔案" />
       <item value="除忖" />
       <item value="存檔" />
@@ -99,7 +100,6 @@
       <item value="fundamentals are essential" />
       <item value="fundam" />
       <item value="funda" />
-      <item value="- Call for increasing the bucket size per order: Idea &#10;pitching, brainstorming, system design, implementation, &#10;release and A/B-Test are all done within 3 weeks.&#10;- We closely monitored the results of the A/B test, which &#10;revealed a negative impact. Consequently, we made the &#10;decision to discontinue the experiment" />
     </histories>
     <option name="languageScores">
       <map>
