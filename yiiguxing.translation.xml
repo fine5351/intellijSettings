@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="檢驗是否在兩個設定之間" />
+      <item value="檢驗" />
       <item value="預估" />
       <item value="剩餘" />
       <item value="g/4m6" />
@@ -98,8 +100,6 @@
       <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a daa" />
       <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a da" />
       <item value="I wish I had known these things &#10;earlier…&#10;● Your time is not solely yours.&#10;● Stay away from excessive &#10;video/computer games (and &#10;your excessive smartphone &#10;usage).&#10;● Fundamentals&#10;● Learn English&#10;● And…&#10;" />
-      <item value="Population Scale&#10;The population size in Taiwan is relatively small, which presents challenges &#10;when thinking at scale. Building a product or service for a market of 20 &#10;million versus 200 million customers requires entirely different approaches &#10;and solutions.&#10;● Salary Band&#10;The cost of hiring and laying off employees in Taiwan is comparatively lower &#10;and more straightforward. However, there hasn't been a significant increase &#10;in labor awareness in recent years. As a result, employers often prioritize &#10;hiring more employees rather than investing in technical solutions to address &#10;problems.&#10;● Communication Skills&#10;In general, there is a tendency to remain silent rather than express thoughts &#10;during discussions or conflicts in Taiwan" />
-      <item value="Population Scale&#10;The population size in Taiwan is relatively small, which presents challenges &#10;when thinking at scale. Building a product or service for a market of 20 &#10;million versus 200 million customers requires entirely different approaches &#10;and solutions.&#10;● Salary Band&#10;The cost of hiring and laying off employees in Taiwan is comparatively lower &#10;and more straightforward. However, there hasn't been a significant increase &#10;in labor awareness in recent years. As a result, employers often prioritize &#10;hiring more employees rather than investing in technical solutions to address &#10;problems.&#10;● Communication Skills&#10;In general, there is a tendency to remain silent rather than express thoughts &#10;during discussions or conflicts in Taiwa" />
     </histories>
     <option name="languageScores">
       <map>
