@@ -1,6 +1,6 @@
 <application>
   <component name="CustomPostfixTemplatesApplicationSettings">
-    <CptPluginSettings VarLambdaStyle="false" SettingsVersion="2">
+    <CptPluginSettings SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
           <entry key="go">
@@ -160,8 +160,8 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="url" value="file://C:/work/資料/my-postfix-template.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\my-postfix-template.postfixTemplates" />
+                  <option name="url" value="file://C:/work/workspace/java/rd3/jkos-msghub-stack/postfix-template.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\msgHub-postfix-template.postfixTemplates" />
                 </VFile>
               </list>
             </value>
