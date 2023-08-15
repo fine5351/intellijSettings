@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="替換" />
+      <item value="後備" />
       <item value="檢驗是否在兩個設定之間" />
       <item value="檢驗" />
       <item value="預估" />
@@ -98,8 +100,6 @@
       <item value="You must be exceptional on &#10;coding, system design and &#10;behaviours, as you are&#10;collaborating with a highly skilled &#10;group of software engineers, &#10;collectively regarded as some of &#10;the finest in the industry.&#10;You tackle the most complex &#10;problems on a global scale, &#10;continuously pushing the &#10;boundaries of software &#10;engineering" />
       <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a day" />
       <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a daa" />
-      <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a da" />
-      <item value="I wish I had known these things &#10;earlier…&#10;● Your time is not solely yours.&#10;● Stay away from excessive &#10;video/computer games (and &#10;your excessive smartphone &#10;usage).&#10;● Fundamentals&#10;● Learn English&#10;● And…&#10;" />
     </histories>
     <option name="languageScores">
       <map>
