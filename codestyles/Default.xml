@@ -1,13 +1,18 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="1000" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+  <option name="RIGHT_MARGIN" value="200" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <option name="DO_NOT_FORMAT">
     <list>
       <fileSet type="globPattern" pattern="Jenkinsfile" />
     </list>
   </option>
+  <JavaCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
