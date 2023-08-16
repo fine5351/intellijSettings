@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.StringUtils" />
     <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
     <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
+    <EXCLUDED_PACKAGE NAME="io.vavr.collection.*" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
     <EXCLUDED_PACKAGE NAME="java.sql.*" />
     <EXCLUDED_PACKAGE NAME="javax.el.*" />
