@@ -50,6 +50,9 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="duplicated" />
+      <item value="duplicate" />
+      <item value="duplica" />
       <item value="UNDEFINED_FAILED" />
       <item value="UNSPECIFIED_FAILED" />
       <item value="Argument" />
@@ -97,14 +100,11 @@
       <item value="business" />
       <item value="Canvas" />
       <item value="protable" />
-      <item value="remove useless method" />
-      <item value="judgeRetryStatus" />
-      <item value="Scan the QR code to access the Must-Read articles on &#10;system design. These articles have helped three &#10;engineers successfully pass system design interviews &#10;and secure positions at Meta!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="240" />
+        <entry key="CHINESE_TRADITIONAL" value="241" />
         <entry key="ENGLISH" value="95" />
         <entry key="ESPERANTO" value="1" />
       </map>
