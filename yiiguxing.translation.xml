@@ -51,6 +51,8 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="nothing" />
+      <item value="nothinh" />
       <item value="冪等" />
       <item value="秘等" />
       <item value="Nullcheck of value previously dereferenced&#10;A value is checked here to see whether it is null, but this value can't be null because it was previously dereferenced and if it were null a null pointer exception would have occurred at the earlier dereference. Essentially, this code and the previous dereference disagree as to whether this value is allowed to be null. Either the check is redundant or the previous dereference is erroneous." />
@@ -99,13 +101,11 @@
       <item value="Exists" />
       <item value="機敏資料" />
       <item value="ru aup3" />
-      <item value="ru" />
-      <item value="flask" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="244" />
+        <entry key="CHINESE_TRADITIONAL" value="245" />
         <entry key="ENGLISH" value="95" />
         <entry key="ESPERANTO" value="1" />
       </map>
