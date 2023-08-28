@@ -47,10 +47,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1447" />
+    <option name="newTranslationDialogWidth" value="1445" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="冪等" />
+      <item value="秘等" />
       <item value="Nullcheck of value previously dereferenced&#10;A value is checked here to see whether it is null, but this value can't be null because it was previously dereferenced and if it were null a null pointer exception would have occurred at the earlier dereference. Essentially, this code and the previous dereference disagree as to whether this value is allowed to be null. Either the check is redundant or the previous dereference is erroneous." />
       <item value="Nullcheck of validatorFactory at line 21 of value previously dereferenced" />
       <item value="Found reliance on default encoding: new java.io.InputStreamReader(InputStream)" />
@@ -99,8 +101,6 @@
       <item value="ru aup3" />
       <item value="ru" />
       <item value="flask" />
-      <item value="優化" />
-      <item value="credential" />
     </histories>
     <option name="languageScores">
       <map>
