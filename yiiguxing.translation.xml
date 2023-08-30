@@ -39,7 +39,6 @@
   <component name="Translation.Settings">
     <option name="phoneticFontFamily" value="DialogInput" />
     <option name="primaryFontFamily" value="DialogInput" />
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
     <option name="translateDocumentation" value="true" />
     <option name="ttsSource" value="TRANSLATION" />
@@ -47,10 +46,12 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1445" />
+    <option name="newTranslationDialogWidth" value="1443" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="里程碑" />
+      <item value="整理" />
       <item value="alignment" />
       <item value="alignment " />
       <item value="nothing" />
@@ -99,14 +100,12 @@
       <item value="optmize" />
       <item value="op" />
       <item value="Solution" />
-      <item value="developing" />
-      <item value="Exists" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="246" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE_TRADITIONAL" value="247" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
