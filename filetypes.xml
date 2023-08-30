@@ -7,7 +7,7 @@
       <mapping pattern="DockerfileConsumer" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -17,6 +17,7 @@
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
@@ -38,7 +39,7 @@
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
