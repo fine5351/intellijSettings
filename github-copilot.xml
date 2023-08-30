@@ -1,0 +1,95 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="AZURE" value="false" />
+        <entry key="Bazaar" value="false" />
+        <entry key="BigQuery" value="false" />
+        <entry key="CPT" value="false" />
+        <entry key="CSS" value="false" />
+        <entry key="CassandraQL" value="false" />
+        <entry key="Chef" value="false" />
+        <entry key="ClickHouse" value="false" />
+        <entry key="CloudFoundry" value="false" />
+        <entry key="Cockroach" value="false" />
+        <entry key="Cookie" value="false" />
+        <entry key="CouchbaseQuery" value="false" />
+        <entry key="Cvs" value="false" />
+        <entry key="DB2" value="false" />
+        <entry key="DB2_IS" value="false" />
+        <entry key="DB2_ZOS" value="false" />
+        <entry key="DTD" value="false" />
+        <entry key="Darcs" value="false" />
+        <entry key="DeployHQ" value="false" />
+        <entry key="Derby" value="false" />
+        <entry key="Docker" value="false" />
+        <entry key="ESLint" value="false" />
+        <entry key="ElasticBeanstalk" value="false" />
+        <entry key="Eleventy" value="false" />
+        <entry key="Exasol" value="false" />
+        <entry key="Floobits" value="false" />
+        <entry key="Fossil" value="false" />
+        <entry key="GitExclude" value="false" />
+        <entry key="Google Cloud" value="false" />
+        <entry key="Greenplum" value="false" />
+        <entry key="HSQLDB" value="false" />
+        <entry key="HTTP Request" value="false" />
+        <entry key="HiveQL" value="false" />
+        <entry key="HtmlCompatible" value="false" />
+        <entry key="Ignore" value="false" />
+        <entry key="IgnoreLang" value="false" />
+        <entry key="JSHint" value="false" />
+        <entry key="JSUnicodeRegexp" value="false" />
+        <entry key="JShellLanguage" value="false" />
+        <entry key="Jetpack" value="false" />
+        <entry key="Kubernetes Helm" value="false" />
+        <entry key="Lombok.Config" value="false" />
+        <entry key="MariaDB" value="false" />
+        <entry key="Mercurial" value="false" />
+        <entry key="MongoDB" value="false" />
+        <entry key="MongoJS" value="false" />
+        <entry key="Monotone" value="false" />
+        <entry key="Nodemon" value="false" />
+        <entry key="Npm" value="false" />
+        <entry key="NuxtJS" value="false" />
+        <entry key="Oracle" value="false" />
+        <entry key="OracleSqlPlus" value="false" />
+        <entry key="Perforce" value="false" />
+        <entry key="PointcutExpression" value="false" />
+        <entry key="PostgreSQL" value="false" />
+        <entry key="Prettier" value="false" />
+        <entry key="Properties" value="false" />
+        <entry key="RELAX-NG" value="false" />
+        <entry key="Redshift" value="false" />
+        <entry key="RegExp" value="false" />
+        <entry key="SPI" value="false" />
+        <entry key="SQL" value="false" />
+        <entry key="SQL92" value="false" />
+        <entry key="SQLDateTime" value="false" />
+        <entry key="SQLite" value="false" />
+        <entry key="SVG" value="false" />
+        <entry key="Snowflake" value="false" />
+        <entry key="Sourcegraph" value="false" />
+        <entry key="SparkSQL" value="false" />
+        <entry key="StyleLint" value="false" />
+        <entry key="Stylint" value="false" />
+        <entry key="Swagger Codegen" value="false" />
+        <entry key="Sybase" value="false" />
+        <entry key="TSQL" value="false" />
+        <entry key="Team Foundation" value="false" />
+        <entry key="UAST" value="false" />
+        <entry key="Up" value="false" />
+        <entry key="Vercel" value="false" />
+        <entry key="Vertica" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XsdRegExp" value="false" />
+        <entry key="Yarn" value="false" />
+        <entry key="textmate" value="false" />
+      </map>
+    </languageAllowList>
+    <option name="inlayTextColor" value="#0edd0e" />
+    <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
+  </component>
+</application>

@@ -1,0 +1,154 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="250" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="50" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="ch.qos.logback.core.joran.*" />
+    <EXCLUDED_PACKAGE NAME="com.amazonaws.util.*" />
+    <EXCLUDED_PACKAGE NAME="com.baomidou.mybatisplus.core.toolkit.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.cloud.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.collect.Collections2" />
+    <EXCLUDED_PACKAGE NAME="com.google.firebase.database.annotations.*" />
+    <EXCLUDED_PACKAGE NAME="com.microsoft.sqlserver.*" />
+    <EXCLUDED_PACKAGE NAME="com.mysql.cj.*" />
+    <EXCLUDED_PACKAGE NAME="com.sun.*" />
+    <EXCLUDED_PACKAGE NAME="com.ulisesbocchio.jasyptspringboot.util.*" />
+    <EXCLUDED_PACKAGE NAME="com.zaxxer.*" />
+    <EXCLUDED_PACKAGE NAME="freemarker.template.utility.*" />
+    <EXCLUDED_PACKAGE NAME="io.github.resilience4j.core.*" />
+    <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.StringUtils" />
+    <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
+    <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
+    <EXCLUDED_PACKAGE NAME="io.vavr.collection.*" />
+    <EXCLUDED_PACKAGE NAME="java.awt.*" />
+    <EXCLUDED_PACKAGE NAME="java.sql.*" />
+    <EXCLUDED_PACKAGE NAME="javax.el.*" />
+    <EXCLUDED_PACKAGE NAME="javax.print.*" />
+    <EXCLUDED_PACKAGE NAME="javax.sql.*" />
+    <EXCLUDED_PACKAGE NAME="javax.swing.*" />
+    <EXCLUDED_PACKAGE NAME="jdk.swing.*" />
+    <EXCLUDED_PACKAGE NAME="kotlin.*" />
+    <EXCLUDED_PACKAGE NAME="net.logstash.logback.util.*" />
+    <EXCLUDED_PACKAGE NAME="net.sf.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.catalina.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.el.stream.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.ibatis.javassist.compiler.ast.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.ibatis.reflection.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.utils.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.logging.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.tomcat.*" />
+    <EXCLUDED_PACKAGE NAME="org.aspect.weaver.Member" />
+    <EXCLUDED_PACKAGE NAME="org.checkerframework.*" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.commons.compiler.*" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.commons.nullanalysis.*" />
+    <EXCLUDED_PACKAGE NAME="org.h2.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotBlank" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotEmpty" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotNull" />
+    <EXCLUDED_PACKAGE NAME="org.jboss.*" />
+    <EXCLUDED_PACKAGE NAME="org.jetbrains.*" />
+    <EXCLUDED_PACKAGE NAME="org.joda.*" />
+    <EXCLUDED_PACKAGE NAME="org.junit.platform.commons.util.*" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.boot.autoconfigure.web.*" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.cglib.*" />
+    <EXCLUDED_PACKAGE NAME="org.springframework.util.CollectionUtils" />
+    <EXCLUDED_PACKAGE NAME="org.threeten.bp.*" />
+    <EXCLUDED_PACKAGE NAME="reactor.*" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="java.implicit.types" value="false" />
+        <entry key="java.method.chains" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="FTL" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="Markdown" value="false" />
+        <entry key="Python" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="false" />
+        <entry key="Stylus" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="false" />
+        <entry key="protobuf" value="true" />
+        <entry key="yaml" value="true" />
+        <entry key="yamlEx" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="250" />
+    <option name="CARET_BLINKING_PERIOD" value="250" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseEndOfLineComments" value="true" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="JpaQlFoldingSettings">
+    <option name="COLLAPSE_JPA_QUERIES" value="false" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="PropertiesFoldingSettings">
+    <option name="foldPlaceholdersToContext" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" SUGGEST_OBJECTS_FROM_SEARCH_PATH_ONLY="true">
+    <option name="suggestObjectsFromSearchPathOnly" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>
