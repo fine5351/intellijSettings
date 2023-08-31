@@ -1,5 +1,14 @@
 <application>
   <component name="KafkaSettings">
-    <option name="selectedConnectionId" value="" />
+    <option name="configs">
+      <map>
+        <entry key="Kafka connection@KafkaConnections@5457478675580230594">
+          <value>
+            <KafkaClusterConfig />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@5457478675580230594" />
   </component>
 </application>
