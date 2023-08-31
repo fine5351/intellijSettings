@@ -411,5 +411,6 @@
     <ignoreAction name="Kotlin/To raw string literal" />
     <ignoreAction name="Kotlin/Use destructuring declaration" />
     <ignoreAction name="MongoDB JSON/Sort properties alphabetically" />
+    <ignoreAction name="AI Assistant/AI Actions..." />
   </component>
 </application>
