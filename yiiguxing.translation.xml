@@ -50,6 +50,8 @@
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
+      <item value="scheduled" />
+      <item value="schedule" />
       <item value="Enhances the bundled Grazie Lite plugin with advanced natural language writing assistance in your IDE. Grazie Pro is a result of the latest developments in deep learning and natural language processing. By default, it processes everything locally, keeping your data private and secure, and provides the following features for English text:&#10;Checks spelling and grammar, taking into account syntax, semantics, and context.&#10;Includes built-in popular style guides, and lets you create custom project-specific style rules.&#10;Can highlight parts of speech, break lines, and extend selection with regard to the syntactic structure.&#10;Adds various handy actions, such as converting passive voice to active voice and expanding contractions.&#10;Enable remote processing and connect to Grazie Cloud with your JetBrains Account to get advanced features and support for more languages:&#10;Grammar checks for German, Russian, and Ukrainian.&#10;Natural language completion of words and phrases in English.&#10;Rephrasing and synonymization for English, Russian, and Ukrainian.&#10;Definitions of words in English, German, Russian, and Ukrainian.&#10;Translation to and from English, German, French, Spanish, Russian, Chinese, Korean, and Japanese.&#10;NOTE: We do not store the text after processing it in Grazie Cloud, so all your data is safe.&#10;For the full list of features, see the Grazie Pro documentation." />
       <item value=" Could not transfer artifact org.springframework.boot:spring-boot-starter-parent:pom:2.7.9 from/to central (https://repo.maven.apache.org/maven2): repo.maven.apache.org: Temporary failure in name resolution&#10;" />
       <item value="里程碑" />
@@ -98,13 +100,11 @@
       <item value="desensitize" />
       <item value="desensitive" />
       <item value="Backstage" />
-      <item value="optimize" />
-      <item value="optmize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="249" />
+        <entry key="CHINESE_TRADITIONAL" value="250" />
         <entry key="ENGLISH" value="96" />
         <entry key="ESPERANTO" value="1" />
       </map>
