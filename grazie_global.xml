@@ -57,7 +57,6 @@
         <option value="LanguageTool.EN.WIKIPEDIA_12_PM" />
         <option value="LanguageTool.EN.BARE_INFINITIVE_CAUSATIVE_VERB_MAKE_PRP_VBZ" />
         <option value="LanguageTool.EN.WORLD_AROUND_IT" />
-        <option value="LanguageTool.EN.WORD_CONTAINS_UNDERSCORE" />
         <option value="LanguageTool.EN.EN_DASH_RULE" />
         <option value="LanguageTool.EN.ENGLISH_WORD_REPEAT_BEGINNING_RULE" />
         <option value="LanguageTool.EN.UNTIL_SUCH_TIME_AS" />
@@ -240,14 +239,17 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="置步驟" />
-            <option value="package" />
-            <option value="Frozen request 調整" />
-            <option value="MsgHub_Consumer" />
-            <option value="end" />
             <option value="@enduml" />
+            <option value="Frozen request 調整" />
+            <option value="Id" />
             <option value="MsgHub_API" />
+            <option value="MsgHub_Consumer" />
             <option value="MsgHub_Schedule" />
+            <option value="end" />
+            <option value="package" />
+            <option value="置步驟" />
+            <option value="is" />
+            <option value="MsgHub_Scheduler" />
           </set>
         </option>
       </SuppressingContext>

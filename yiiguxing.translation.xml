@@ -34,7 +34,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688367192170" />
+    <option name="lastTrimTime" value="1690765286338" />
   </component>
   <component name="Translation.Settings">
     <option name="phoneticFontFamily" value="DialogInput" />
@@ -46,66 +46,67 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="410" />
-    <option name="newTranslationDialogWidth" value="1465" />
+    <option name="newTranslationDialogWidth" value="1453" />
     <option name="newTranslationDialogX" value="289" />
     <option name="newTranslationDialogY" value="250" />
     <histories>
-      <item value="outrank" />
-      <item value="take easy" />
-      <item value="速率" />
-      <item value="cancelled" />
-      <item value="PayLoad" />
-      <item value="payLoad" />
-      <item value="payload" />
-      <item value="payloaf" />
-      <item value="sprint" />
-      <item value="It's your summer of growth!&#10;LIMITED TIME ONLY - Lock in your lifetime discount of 20% for AIPRM Elite.&#10;Connect ChatGPT to the Internet. View Prompt Sources. More lists, private prompts, and custom writing styles.&#10;Use code SUMMERLEET20 (Offer ends June 30th)" />
-      <item value="transition per second&#10;transaction per second" />
-      <item value="transition per second&#10;transaction per se" />
-      <item value="transition per second&#10;transaction" />
-      <item value="transition per second&#10;transact" />
-      <item value="transition per second&#10;" />
-      <item value="transition per second" />
-      <item value="transition per s" />
-      <item value="transition" />
-      <item value="transi" />
-      <item value="能批次" />
-      <item value="能" />
-      <item value="能披" />
-      <item value="可批次" />
-      <item value="可以批次" />
-      <item value="可" />
-      <item value="the willingness to go to jail" />
-      <item value="compatible" />
-      <item value="need to send with socket event size" />
-      <item value="need to send with fcm event size" />
-      <item value="For the primary application or service you work on, how often does your organization deploy code to production or release it to end users?&#10;" />
-      <item value="For the primary application or service you work on, what is your lead time for changes (that is, how long does it take to go from code committed to code successfully running in production)?" />
-      <item value="For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (for example, unplanned outage, service impairment)?&#10;&#10;For the primary application or service you work on, what percentage of changes to production or releases to users result in degraded service (for example, lead to service impairment or service outage) and subsequently require remediation (for example, require a hotfix, rollback, fix forward, patch)?" />
-      <item value="For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (for example, unplanned outage, service impairment)?" />
-      <item value="For the primary application or service you work on, how long does it generally take to restore service when a service incident or a defect that impacts users occurs (for example, unplanned outage, service impairment)?&#10;" />
-      <item value="例行" />
-      <item value="日常" />
-      <item value="routing" />
-      <item value="entertainment" />
-      <item value="entermain" />
-      <item value="enter" />
-      <item value="不可發送" />
-      <item value="可以發送" />
-      <item value="可以發松" />
-      <item value="將 value 加進 set" />
-      <item value="將 value 佳進 set" />
-      <item value="implicit" />
-      <item value="Fields in a Serializable class must themselves be either Serializable or transient even if the class is never explicitly serialized or deserialized. For instance, under load, most J2EE application frameworks flush objects to disk, and an allegedly Serializable object with non-transient, non-serializable data members could cause program crashes, and open the door to attackers. In general a Serializable class is expected to fulfil its contract and not have an unexpected behaviour when an instance is serialized.&#10;This rule raises an issue on non-Serializable fields, and on collection fields when they are not private (because they could be assigned non-Serializable values externally), and when they are assigned non-Serializable types within the class." />
-      <item value="引擎" />
-      <item value="enigin" />
-      <item value="engin" />
+      <item value="添加前綴" />
+      <item value="隱藏" />
+      <item value="引ㄘㄤ˙" />
+      <item value="Mitagate " />
+      <item value="CamelHumps" />
+      <item value="desensitize" />
+      <item value="desensitive" />
+      <item value="Backstage" />
+      <item value="optimize" />
+      <item value="optmize" />
+      <item value="op" />
+      <item value="Solution" />
+      <item value="developing" />
+      <item value="Exists" />
+      <item value="機敏資料" />
+      <item value="ru aup3" />
+      <item value="ru" />
+      <item value="flask" />
+      <item value="優化" />
+      <item value="credential" />
+      <item value="business" />
+      <item value="Canvas" />
+      <item value="protable" />
+      <item value="remove useless method" />
+      <item value="judgeRetryStatus" />
+      <item value="Scan the QR code to access the Must-Read articles on &#10;system design. These articles have helped three &#10;engineers successfully pass system design interviews &#10;and secure positions at Meta!" />
+      <item value="Identifying an Engineering-Friendly Work &#10;Environment&#10;1. Decision Making&#10;How do you measure the success of a goal, in terms of business and &#10;technology? Is data-driven analysis or subjective intuition more influential in &#10;decision-making?&#10;2. Engineering Efficiency&#10;What is the timeline from code commit to public release? What are the &#10;necessary steps involved in the release process for backend, frontend, and &#10;mobile development?&#10;3. Balancing Business Goals and Technical Debt&#10;How do you reach a balance between business objectives and managing &#10;technical debt? How would you prioritize these goals in the event of resource &#10;conflicts" />
+      <item value="Ability to ask (good) &#10;questions.&#10;● Address on solving &#10;problems systematically.&#10;● Providing constructive &#10;feedback.&#10;● Be respectful but &#10;straightforward" />
+      <item value="wrap up" />
+      <item value="I wish I had known these things earlier…&#10;● Work culture is WAY MORE important than I thought.&#10;○ 5 out of 10 my colleagues in RECO team at Zalando was hired &#10;by Meta or Google. (at position IC4, IC5, and IC6)&#10;● I wish I were younger.&#10;● Learn English&#10;" />
+      <item value="You must be exceptional on &#10;coding, system design and &#10;behaviours, as you are&#10;collaborating with a highly skilled &#10;group of software engineers, &#10;collectively regarded as some of &#10;the finest in the industry.&#10;You tackle the most complex &#10;problems on a global scale, &#10;continuously pushing the &#10;boundaries of software &#10;engineering" />
+      <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a day" />
+      <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a daa" />
+      <item value="The most important thing is:&#10;The way of working and thinking is shaped &#10;by your colleagues and boss; in other &#10;words, by the work culture you are in.&#10;…at least 8 hours a da" />
+      <item value="I wish I had known these things &#10;earlier…&#10;● Your time is not solely yours.&#10;● Stay away from excessive &#10;video/computer games (and &#10;your excessive smartphone &#10;usage).&#10;● Fundamentals&#10;● Learn English&#10;● And…&#10;" />
+      <item value="Population Scale&#10;The population size in Taiwan is relatively small, which presents challenges &#10;when thinking at scale. Building a product or service for a market of 20 &#10;million versus 200 million customers requires entirely different approaches &#10;and solutions.&#10;● Salary Band&#10;The cost of hiring and laying off employees in Taiwan is comparatively lower &#10;and more straightforward. However, there hasn't been a significant increase &#10;in labor awareness in recent years. As a result, employers often prioritize &#10;hiring more employees rather than investing in technical solutions to address &#10;problems.&#10;● Communication Skills&#10;In general, there is a tendency to remain silent rather than express thoughts &#10;during discussions or conflicts in Taiwan" />
+      <item value="Population Scale&#10;The population size in Taiwan is relatively small, which presents challenges &#10;when thinking at scale. Building a product or service for a market of 20 &#10;million versus 200 million customers requires entirely different approaches &#10;and solutions.&#10;● Salary Band&#10;The cost of hiring and laying off employees in Taiwan is comparatively lower &#10;and more straightforward. However, there hasn't been a significant increase &#10;in labor awareness in recent years. As a result, employers often prioritize &#10;hiring more employees rather than investing in technical solutions to address &#10;problems.&#10;● Communication Skills&#10;In general, there is a tendency to remain silent rather than express thoughts &#10;during discussions or conflicts in Taiwa" />
+      <item value="fundamentals are essential" />
+      <item value="fundam" />
+      <item value="funda" />
+      <item value="- Call for increasing the bucket size per order: Idea &#10;pitching, brainstorming, system design, implementation, &#10;release and A/B-Test are all done within 3 weeks.&#10;- We closely monitored the results of the A/B test, which &#10;revealed a negative impact. Consequently, we made the &#10;decision to discontinue the experiment" />
+      <item value="Received a P0 incident. In 1 hour (MTTR), I recovery the &#10;entire recommender platform by myself. (code change, &#10;CI/CD, emergency deployment, DB Restore, incident &#10;management, and collectively alert responds)." />
+      <item value="An Example of Engineering efficiency: &#10;Incident-handling process " />
+      <item value="Extensive reading&#10;■ Engage in a substantial amount of reading.&#10;○ You are not alone&#10;■ Remember that you are not alone in facing &#10;challenges. (Unless you work for a tier-1 company.)&#10;○ Wisdom of Crowds&#10;■ The principle suggests that diverse groups can &#10;collectively make better decisions than individuals.&#10;○ Refresh Eyes&#10;■ Take breaks and revisit your projects after a period of &#10;time. This allows you to gain new insights.&#10;○ Brain Training Exercises&#10;■ Ex: How will you design a system for covid-19 vaccine &#10;registration?&#10;W" />
+      <item value="xtensive reading&#10;■ Engage in a substantial amount of reading.&#10;○ You are not alone&#10;■ Remember that you are not alone in facing &#10;challenges. (Unless you work for a tier-1 company.)&#10;○ Wisdom of Crowds&#10;■ The principle suggests that diverse groups can &#10;collectively make better decisions than individuals.&#10;○ Refresh Eyes&#10;■ Take breaks and revisit your projects after a period of &#10;time. This allows you to gain new insights.&#10;○ Brain Training Exercises&#10;■ Ex: How will you design a system for covid-19 vaccine &#10;registration?&#10;W" />
+      <item value="I have a hammer, &#10;so everything &#10;looks like a nail" />
+      <item value="I have a hammer, &#10;so everything &#10;looks like a nai" />
+      <item value="Exploitation and exploration" />
+      <item value="Recap&#10;● Some advice for the beginning of your career. (0~5th &#10;years)&#10;○ Be passionate about your work.&#10;○ Lay the groundwork by diving deep into your field.&#10;○ Don't cut corners" />
+      <item value="recap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="188" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE_TRADITIONAL" value="230" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
