@@ -4,7 +4,7 @@
     <property name="created">2022-11-14T14:10:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2023-02-15T10:07:06</property>
+    <property name="modified">2023-09-02T19:50:24</property>
     <property name="originalScheme">Gradianto Nature Green</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -356,11 +356,6 @@
         <option name="FOREGROUND" value="5686aa" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -430,7 +425,7 @@
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
     <option name="REGEXP.BRACKETS">
       <value>
         <option name="FOREGROUND" value="4f9c55" />
@@ -441,14 +436,14 @@
         <option name="FOREGROUND" value="75aa7b" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
     <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="c2e89b" />
       </value>
     </option>
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="285230" />
@@ -476,7 +471,7 @@
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="505224" />
