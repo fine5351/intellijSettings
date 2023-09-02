@@ -28,6 +28,7 @@
     <EXCLUDED_PACKAGE NAME="io.micrometer.core.instrument.util.StringUtils" />
     <EXCLUDED_PACKAGE NAME="io.minio.messages.Rule" />
     <EXCLUDED_PACKAGE NAME="io.netty.util.internal" />
+    <EXCLUDED_PACKAGE NAME="io.vavr.collection.*" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
     <EXCLUDED_PACKAGE NAME="java.sql.*" />
     <EXCLUDED_PACKAGE NAME="javax.el.*" />
@@ -39,8 +40,6 @@
     <EXCLUDED_PACKAGE NAME="net.logstash.logback.util.*" />
     <EXCLUDED_PACKAGE NAME="net.sf.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.*" />
-    <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.*" />
-    <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.el.stream.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.javassist.compiler.ast.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.reflection.*" />

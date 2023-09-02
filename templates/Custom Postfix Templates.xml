@@ -2,4 +2,7 @@
   <template name="_" value="$var$ -&gt; {$var$}" description="lambda" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="suggestShortVariableName()" defaultValue="v" alwaysStopAt="false" />
   </template>
+  <template name="-&gt;" value="→" description="→" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
 </templateSet>
