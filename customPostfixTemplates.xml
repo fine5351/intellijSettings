@@ -43,6 +43,7 @@
             <value>
               <list>
                 <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="cassiuscai.vavr" />
                   <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/vavr.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\cassiuscai.vavr.postfixTemplates" />
@@ -159,7 +160,8 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
+                  <option name="url" value="file://C:/work/workspace/java/rd3/jkos-msghub-stack/postfix-template.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\msgHub-postfix-template.postfixTemplates" />
                 </VFile>
               </list>
             </value>
