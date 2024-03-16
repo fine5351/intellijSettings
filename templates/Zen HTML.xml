@@ -276,7 +276,9 @@
     </context>
   </template>
   <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
   </template>
   <template name="script" value="&lt;script !src=&quot;&quot;&gt;$END$&lt;/script&gt;" description="&lt;script&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>

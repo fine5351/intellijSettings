@@ -8,7 +8,6 @@
         <option value="com.intellij.grpc" />
         <option value="com.intellij.spring.websocket" />
         <option value="org.jetbrains.kotlin" />
-        <option value="Pythonid" />
       </list>
     </option>
   </component>
