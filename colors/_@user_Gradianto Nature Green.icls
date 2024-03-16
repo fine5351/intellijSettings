@@ -4,7 +4,7 @@
     <property name="created">2022-11-14T14:10:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2024-03-14T11:03:18</property>
+    <property name="modified">2024-03-16T14:09:42</property>
     <property name="originalScheme">Gradianto Nature Green</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -471,7 +471,7 @@
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="505224" />
