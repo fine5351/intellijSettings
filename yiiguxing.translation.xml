@@ -51,6 +51,7 @@
     <option name="translationDialogLocationY" value="108" />
     <option name="translationDialogWidth" value="574" />
     <histories>
+      <item value="}" />
       <item value="statistics" />
       <item value="statistic" />
       <item value="static" />
@@ -100,12 +101,11 @@
       <item value="添加前綴" />
       <item value="隱藏" />
       <item value="引ㄘㄤ˙" />
-      <item value="Mitagate " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="250" />
+        <entry key="CHINESE_TRADITIONAL" value="251" />
         <entry key="ENGLISH" value="98" />
         <entry key="ESPERANTO" value="1" />
       </map>
