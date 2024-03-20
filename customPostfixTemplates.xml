@@ -159,12 +159,13 @@
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="file" value="${PLUGIN}\java\Donation.postfixTemplates" />
+                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/msgHub.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/msgHub.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
+                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/donation.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\Donation.postfixTemplates" />
                 </VFile>
               </list>
             </value>
