@@ -159,10 +159,10 @@
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="file" value="${PLUGIN}\java\Donation.postfixTemplates" />
                 </VFile>
                 <VFile>
+                  <option name="enabled" value="true" />
                   <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
                 </VFile>
               </list>
