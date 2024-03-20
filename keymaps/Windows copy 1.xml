@@ -212,9 +212,7 @@
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
-  <action id="MoveElementRight">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
+  <action id="MoveElementRight" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -226,6 +224,9 @@
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="NextOccurence" />
   <action id="NotebookSelectCellAboveAction" />
