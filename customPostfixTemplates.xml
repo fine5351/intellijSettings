@@ -163,6 +163,7 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/msgHub.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
                 </VFile>
               </list>
