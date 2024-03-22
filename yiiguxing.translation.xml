@@ -47,10 +47,12 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
-    <option name="translationDialogLocationX" value="686" />
-    <option name="translationDialogLocationY" value="108" />
-    <option name="translationDialogWidth" value="718" />
+    <option name="translationDialogLocationX" value="681" />
+    <option name="translationDialogLocationY" value="112" />
+    <option name="translationDialogWidth" value="716" />
     <histories>
+      <item value="star trail" />
+      <item value="startrail" />
       <item value="compass&#10;" />
       <item value="co" />
       <item value="xomp" />
@@ -99,13 +101,11 @@
       <item value="h" />
       <item value="storage" />
       <item value="剩餘的事件" />
-      <item value="剩餘的" />
-      <item value="header" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="254" />
+        <entry key="CHINESE_TRADITIONAL" value="255" />
         <entry key="ENGLISH" value="99" />
         <entry key="ESPERANTO" value="1" />
       </map>
