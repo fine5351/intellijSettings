@@ -45,6 +45,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.reflection.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.kafka.common.utils.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.logging.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.hpsf.Date" />
     <EXCLUDED_PACKAGE NAME="org.apache.tomcat.*" />
     <EXCLUDED_PACKAGE NAME="org.aspect.weaver.Member" />
     <EXCLUDED_PACKAGE NAME="org.checkerframework.*" />
