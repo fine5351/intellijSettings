@@ -64,6 +64,7 @@
     <EXCLUDED_PACKAGE NAME="org.springframework.util.CollectionUtils" />
     <EXCLUDED_PACKAGE NAME="org.threeten.bp.*" />
     <EXCLUDED_PACKAGE NAME="reactor.*" />
+    <EXCLUDED_PACKAGE NAME="software.amazon.awssdk.utils.StringUtils" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
