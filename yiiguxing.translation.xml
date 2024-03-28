@@ -51,6 +51,7 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="714" />
     <histories>
+      <item value="tier" />
       <item value="傳入" />
       <item value="star trail" />
       <item value="startrail" />
@@ -100,12 +101,11 @@
       <item value="除忖" />
       <item value="存檔" />
       <item value="h" />
-      <item value="storage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="258" />
+        <entry key="CHINESE_TRADITIONAL" value="259" />
         <entry key="ENGLISH" value="101" />
         <entry key="ESPERANTO" value="1" />
       </map>
