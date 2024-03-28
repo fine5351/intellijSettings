@@ -5,23 +5,31 @@
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="brokerCloudSource" value="rO0ABX5yADNjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FDbG91ZFR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlDT05GTFVFTlQ=" />
-              <entry key="brokerConfigurationSource" value="rO0ABX5yAD1jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FDb25maWd1cmF0aW9uU291cmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAPRlJPTV9QUk9QRVJUSUVT" />
-              <entry key="properties" value="rO0ABXQAAA==" />
-              <entry key="propertySource" value="rO0ABX5yADhjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FQcm9wZXJ0eVNvdXJjZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkRJUkVDVA==" />
-              <entry key="registryConfSource" value="rO0ABX5yAD1jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FDb25maWd1cmF0aW9uU291cmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAPRlJPTV9QUk9QRVJUSUVT" />
-              <entry key="registryProperties" value="rO0ABXQAAA==" />
-              <entry key="registryType" value="rO0ABX5yADtjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZWdpc3RyeS5LYWZrYVJlZ2lzdHJ5VHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUNPTkZMVUVOVA==" />
-              <entry key="registryUseBrokerSsl" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
-              <entry key="tunnel" value="rO0ABXNyAFdjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi50dW5uZWwubW9kZWwuQ29ubmVjdGlvblNzaFR1bm5lbERhdGFMZWdhY3mINKLe8MxKawIABVoACWlzRW5hYmxlZEkACnJlbW90ZVBvcnRMAAhjb25maWdJZHQAEkxqYXZhL2xhbmcvU3RyaW5nO0wACWxvY2FsUG9ydHQAE0xqYXZhL2xhbmcvSW50ZWdlcjtMAApyZW1vdGVIb3N0cQB+AAF4cAD/////dAAAcHEAfgAE" />
-              <entry key="version" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAAF" />
+              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
+              <entry key="bucket" value="rO0ABXQAEWR3YWQtZGF0YS1zZXJ2aWNl" />
+              <entry key="bucketFilter" value="rO0ABXQAAA==" />
+              <entry key="bucketFilterType" value="rO0ABX5yAD9jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uZmlsZXN0b3JhZ2VzLkJ1Y2tldEZpbHRlclR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDT05UQUlOUw==" />
+              <entry key="bucketName" value="rO0ABXQAAA==" />
+              <entry key="endpoint" value="rO0ABXQAGmh0dHBzOi8vbWluaW8tYXBpLmprb3MuY29t" />
+              <entry key="isBucketSourceCustom" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="isDisableSocketProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="isMultiBucketSupport" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="isPreemptiveBasicProxyAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="nonProxyHosts" value="rO0ABXQAAA==" />
+              <entry key="profileName" value="rO0ABXQAB2RlZmF1bHQ=" />
+              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyDomain" value="rO0ABXQAAA==" />
+              <entry key="proxyEnableType" value="rO0ABX5yADxjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi5Qcm94eUVuYWJsZVR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhESVNBQkxFRA==" />
+              <entry key="proxyHost" value="rO0ABXQAAA==" />
+              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
+              <entry key="proxyWorkstation" value="rO0ABXQAAA==" />
+              <entry key="region" value="rO0ABXQAAA==" />
             </map>
           </option>
-          <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
-          <option name="groupId" value="KafkaConnections" />
-          <option name="innerId" value="Kafka connection@KafkaConnections@5457478675580230594" />
-          <option name="name" value="Kafka connection" />
-          <option name="uri" value="jko4-kafka227.jkopay.app:9093,jko2-kafka228.jkopay.app:9093,jko4-kafka229.jkopay.app:9093" />
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.MinioConnectionData" />
+          <option name="groupId" value="MinioConnectionGroup" />
+          <option name="innerId" value="MinIO@MinioConnectionGroup@-8866935217764429079" />
+          <option name="name" value="dynamic-white-list-prod" />
         </ExtendedConnectionData>
       </list>
     </option>
