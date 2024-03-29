@@ -51,6 +51,7 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="712" />
     <histories>
+      <item value="填充" />
       <item value="integral" />
       <item value="完整的" />
       <item value="tier" />
@@ -100,7 +101,6 @@
       <item value="g/4m6" />
       <item value="帝皇" />
       <item value="儲存檔案" />
-      <item value="除忖" />
     </histories>
     <option name="languageScores">
       <map>
