@@ -56,6 +56,7 @@
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotBlank" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotEmpty" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints.NotNull" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal.*" />
     <EXCLUDED_PACKAGE NAME="org.jboss.*" />
     <EXCLUDED_PACKAGE NAME="org.jetbrains.*" />
     <EXCLUDED_PACKAGE NAME="org.joda.*" />
