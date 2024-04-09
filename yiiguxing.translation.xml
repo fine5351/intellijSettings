@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="704" />
     <histories>
+      <item value="repair" />
+      <item value="復原" />
       <item value="如何使用聖甲蟲快速獲得大量傳奇裝備?" />
       <item value="incoming" />
       <item value="修正" />
@@ -100,13 +102,11 @@
       <item value="parameter" />
       <item value="parameterar" />
       <item value="constraint" />
-      <item value="替換" />
-      <item value="後備" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="271" />
+        <entry key="CHINESE_TRADITIONAL" value="272" />
         <entry key="ENGLISH" value="112" />
         <entry key="ESPERANTO" value="1" />
       </map>
