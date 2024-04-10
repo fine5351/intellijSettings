@@ -52,6 +52,13 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="704" />
     <histories>
+      <item value="stock operation" />
+      <item value="stock operat" />
+      <item value="stock operate" />
+      <item value="庫存操作" />
+      <item value="庫存" />
+      <item value="庫存凹做" />
+      <item value="庫ㄨㄣ" />
       <item value="validate All Store Id Are Same" />
       <item value="validate All Store Id AreSame" />
       <item value="validate All StoreIdAreSame" />
@@ -95,13 +102,6 @@
       <item value="冪等" />
       <item value="秘等" />
       <item value="Nullcheck of value previously dereferenced&#10;A value is checked here to see whether it is null, but this value can't be null because it was previously dereferenced and if it were null a null pointer exception would have occurred at the earlier dereference. Essentially, this code and the previous dereference disagree as to whether this value is allowed to be null. Either the check is redundant or the previous dereference is erroneous." />
-      <item value="Nullcheck of validatorFactory at line 21 of value previously dereferenced" />
-      <item value="Found reliance on default encoding: new java.io.InputStreamReader(InputStream)" />
-      <item value="duplicated" />
-      <item value="duplicate" />
-      <item value="duplica" />
-      <item value="UNDEFINED_FAILED" />
-      <item value="UNSPECIFIED_FAILED" />
     </histories>
     <option name="languageScores">
       <map>
