@@ -52,6 +52,10 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="704" />
     <histories>
+      <item value="is All Same Product" />
+      <item value="is All SameProduct" />
+      <item value="is AllSameProduct" />
+      <item value="isAllSameProduct" />
       <item value="stock operation" />
       <item value="stock operat" />
       <item value="stock operate" />
@@ -98,10 +102,6 @@
       <item value="alignment" />
       <item value="alignment " />
       <item value="nothing" />
-      <item value="nothinh" />
-      <item value="冪等" />
-      <item value="秘等" />
-      <item value="Nullcheck of value previously dereferenced&#10;A value is checked here to see whether it is null, but this value can't be null because it was previously dereferenced and if it were null a null pointer exception would have occurred at the earlier dereference. Essentially, this code and the previous dereference disagree as to whether this value is allowed to be null. Either the check is redundant or the previous dereference is erroneous." />
     </histories>
     <option name="languageScores">
       <map>
