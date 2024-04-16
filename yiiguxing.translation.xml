@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="116" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="get One" />
       <item value="遞增" />
       <item value="2" />
       <item value="is All Same Product" />
@@ -101,13 +102,12 @@
       <item value="integer" />
       <item value="里程碑" />
       <item value="整理" />
-      <item value="alignment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
         <entry key="CHINESE_TRADITIONAL" value="273" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
