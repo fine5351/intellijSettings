@@ -49,9 +49,11 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
     <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="295" />
+    <option name="translationDialogLocationY" value="278" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="exists" />
+      <item value="exist" />
       <item value="MustExists" />
       <item value="get One" />
       <item value="遞增" />
@@ -100,8 +102,6 @@
       <item value="statti" />
       <item value="stat" />
       <item value="統計" />
-      <item value="integer" />
-      <item value="里程碑" />
     </histories>
     <option name="languageScores">
       <map>
