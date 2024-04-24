@@ -40,6 +40,7 @@
     <EXCLUDED_PACKAGE NAME="net.logstash.logback.util.*" />
     <EXCLUDED_PACKAGE NAME="net.sf.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.catalina.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.codec.binary.StringUtils" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.collections.CollectionUtils" />
     <EXCLUDED_PACKAGE NAME="org.apache.el.stream.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.ibatis.javassist.compiler.ast.*" />
