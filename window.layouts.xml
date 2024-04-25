@@ -467,44 +467,75 @@
       ],
       "v2": [
         {
+          "id": "Space Code Reviews"
+        },
+        {
           "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
           "isShowStripeButton": false
         },
         {
-          "id": "Pull Requests",
-          "isShowStripeButton": false
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Persistence",
+          "isShowStripeButton": false,
+          "weight": 0.22241211,
+          "isSplit": true
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false,
+          "weight": 0.32983398
+        },
+        {
+          "id": "Welcome to GitHub Copilot",
+          "order": 0,
+          "isShowStripeButton": false,
+          "weight": 0.32983398
         },
         {
           "id": "Project",
-          "order": 0,
+          "order": 1,
           "contentUiType": "COMBO",
-          "weight": 0.19817708
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.18359375,
+          "sideWeight": 0.50111985
         },
         {
-          "id": "Leetcode",
-          "order": 1,
-          "isShowStripeButton": false
+          "id": "Database",
+          "order": 2,
+          "weight": 0.18359375,
+          "sideWeight": 0.4988802,
+          "isSplit": true
+        },
+        {
+          "id": "BigDataToolWindow",
+          "order": 3,
+          "weight": 0.18359375,
+          "sideWeight": 0.4989637,
+          "isSplit": true
         },
         {
           "id": "Database Changes",
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
-          "weight": 0.33028847
-        },
-        {
-          "id": "Endpoints",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Leetcode Console",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.1834239
         },
         {
           "id": "Profiler",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "isShowStripeButton": false,
+          "weight": 0.4479167
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM"
         },
         {
           "id": "TODO",
@@ -512,153 +543,185 @@
           "isShowStripeButton": false
         },
         {
-          "id": "Java Enterprise",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Dependency Checker",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Mybatis Sql",
-          "order": 0,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.32977617
-        },
-        {
-          "id": "Services",
-          "order": 1,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            961,
-            0,
-            958,
-            1039
-          ],
-          "type": "WINDOWED",
-          "weight": 0.3360577
-        },
-        {
-          "id": "Run",
-          "order": 2,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            1,
-            0,
-            958,
-            1039
-          ],
-          "type": "WINDOWED",
-          "isShowStripeButton": false,
-          "weight": 0.48701924
-        },
-        {
-          "id": "Notifications",
-          "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.3235577,
-          "sideWeight": 0.49972796,
-          "isSplit": true
-        },
-        {
-          "id": "SpotBugs",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.33028847
-        },
-        {
-          "id": "Terminal",
-          "order": 5,
-          "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.3235577,
-          "sideWeight": 0.49972796,
-          "isSplit": true
-        },
-        {
-          "id": "Spring",
-          "order": 6,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.37548077
-        },
-        {
-          "id": "Problems",
-          "order": 7,
+          "id": "File Transfer",
           "anchor": "BOTTOM"
         },
         {
-          "id": "Problems View",
-          "order": 8,
+          "id": "Terminal",
+          "order": 0,
           "anchor": "BOTTOM",
-          "weight": 0.3360577,
+          "floatingBounds": [
+            1121,
+            1440,
+            781,
+            822
+          ],
+          "weight": 0.31540698,
           "sideWeight": 0.50027204
         },
         {
-          "id": "Build",
-          "order": 9,
+          "id": "CheckStyle",
+          "order": 1,
           "anchor": "BOTTOM",
-          "weight": 0.32740384
+          "isShowStripeButton": false,
+          "weight": 0.3057065
         },
         {
-          "id": "Dependencies",
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            1912,
+            -8,
+            1936,
+            1048
+          ],
+          "type": "WINDOWED",
+          "contentUiType": "COMBO",
+          "weight": 0.28827518,
+          "sideWeight": 0.50025433
+        },
+        {
+          "id": "Coverage",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.20516303
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.29936594,
+          "sideWeight": 0.5155137
+        },
+        {
+          "id": "Notifications",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.5053295,
+          "sideWeight": 0.49972796,
+          "isSplit": true
+        },
+        {
+          "id": "Build",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.28827518,
+          "sideWeight": 0.49972796,
+          "isSplit": true
+        },
+        {
+          "id": "Services",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            2873,
+            0,
+            974,
+            1039
+          ],
+          "type": "WINDOWED",
+          "isVisible": true,
+          "weight": 0.28827518,
+          "sideWeight": 0.72276926,
+          "isSplit": true
+        },
+        {
+          "id": "Run",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            1912,
+            -8,
+            1936,
+            1048
+          ],
+          "isMaximized": true,
+          "type": "WINDOWED",
+          "isVisible": true,
+          "weight": 0.28827518,
+          "sideWeight": 0.49974567,
+          "isSplit": true
+        },
+        {
+          "id": "Problems",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.22727272
+        },
+        {
+          "id": "Find",
           "order": 10,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "floatingBounds": [
+            1912,
+            -8,
+            1936,
+            1048
+          ],
+          "isMaximized": true,
+          "type": "WINDOWED",
+          "isVisible": true,
+          "weight": 0.28827518,
+          "sideWeight": 0.5005084
         },
         {
           "id": "SonarLint",
           "order": 11,
           "anchor": "BOTTOM",
-          "weight": 0.3360577
+          "isShowStripeButton": false,
+          "weight": 0.544837,
+          "sideWeight": 0.50025433
         },
         {
-          "id": "Find",
+          "id": "Gitlab Pipeline Lint Results",
           "order": 12,
           "anchor": "BOTTOM",
-          "weight": 0.55528843
+          "isShowStripeButton": false
         },
         {
           "id": "Version Control",
           "order": 13,
           "anchor": "BOTTOM",
-          "weight": 0.3235577,
+          "weight": 0.28827518,
           "sideWeight": 0.50027204
+        },
+        {
+          "id": "SQL Generator",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.32110506
+        },
+        {
+          "id": "Duplicates",
+          "order": 15,
+          "anchor": "BOTTOM",
+          "weight": 0.33023
         },
         {
           "id": "Commit",
-          "order": 14,
+          "order": 16,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.3235577,
+          "weight": 0.28827518,
           "sideWeight": 0.50027204
         },
         {
-          "id": "LuaCheck",
-          "order": 15,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "id": "String Manipulation",
+          "anchor": "RIGHT"
         },
         {
-          "id": "String Manipulation",
+          "id": "Endpoints",
           "anchor": "RIGHT",
           "isShowStripeButton": false
         },
         {
           "id": "documentation.v2",
           "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Mybatis datasource",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
+          "isSplit": true
         },
         {
           "id": "Beans",
@@ -669,97 +732,120 @@
           "id": "Meet New UI",
           "anchor": "RIGHT",
           "isShowStripeButton": false,
+          "weight": 0.33032227,
           "isSplit": true
         },
         {
           "id": "Structure",
           "order": 0,
           "anchor": "RIGHT",
-          "weight": 0.13872983
-        },
-        {
-          "id": "Maven",
-          "order": 1,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.3361979
-        },
-        {
-          "id": "Database",
-          "order": 2,
-          "anchor": "RIGHT",
-          "weight": 0.3486979
+          "weight": 0.2997396
         },
         {
           "id": "Gradle",
-          "order": 3,
+          "order": 1,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Key Promoter X",
-          "order": 4,
+          "id": "github.copilotToolWindow",
+          "order": 2,
           "anchor": "RIGHT",
-          "weight": 0.32994792
+          "isShowStripeButton": false
         },
         {
-          "id": "github.copilotToolWindow",
-          "order": 5,
+          "id": "PlantUML",
+          "order": 3,
           "anchor": "RIGHT",
           "isShowStripeButton": false
         },
         {
           "id": "Translation.Wordbook",
-          "order": 6,
+          "order": 4,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
-          "weight": 0.32977617
+          "isSplit": true
         },
         {
-          "id": "PlantUML",
-          "order": 7,
+          "id": "Maven",
+          "order": 5,
           "anchor": "RIGHT",
-          "isShowStripeButton": false
+          "weight": 0.46655273
         },
         {
           "id": "Json Parser",
-          "order": 8,
+          "order": 6,
           "anchor": "RIGHT",
-          "weight": 0.3486979
+          "weight": 0.2997396
         },
         {
-          "id": "Web Inspector",
+          "id": "Key Promoter X",
+          "order": 7,
+          "anchor": "RIGHT",
+          "weight": 0.2997396,
+          "isSplit": true
+        },
+        {
+          "id": "ChatGPT Tool",
+          "order": 8,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Code Search",
           "order": 9,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "floatingBounds": [
+            125,
+            1894,
+            1564,
+            830
+          ],
+          "isMaximized": true,
+          "type": "WINDOWED",
+          "isActiveOnStart": true,
+          "weight": 0.46411133
         },
         {
-          "id": "make",
+          "id": "ChatGPT",
           "order": 10,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32977617
+          "anchor": "RIGHT"
         },
         {
-          "id": "Gitlab Pipeline Lint Results",
+          "id": "AIAssistant",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.3361979,
-          "isSplit": true
+          "floatingBounds": [
+            757,
+            1613,
+            220,
+            84
+          ],
+          "isMaximized": true,
+          "type": "WINDOWED",
+          "isActiveOnStart": true,
+          "weight": 0.33276367
         },
         {
-          "id": "Jenkins Linter",
+          "id": "GitHub Copilot Chat",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.3361979,
-          "isSplit": true
+          "floatingBounds": [
+            -9,
+            1071,
+            1938,
+            1038
+          ],
+          "type": "WINDOWED",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.2997396
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.19817708,
-        "bottom": 0.3235577,
-        "right": 0.3361979
+        "left": 0.18359375,
+        "bottom": 0.28827518,
+        "right": 0.2997396
       }
     }
   }
