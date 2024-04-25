@@ -52,6 +52,9 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="Recover" />
+      <item value="Recovery" />
+      <item value="Recoverㄗ" />
       <item value="義賣商品" />
       <item value="donation to group" />
       <item value="donation to " />
@@ -99,14 +102,11 @@
       <item value="co" />
       <item value="xomp" />
       <item value="validate" />
-      <item value="}" />
-      <item value="statistics" />
-      <item value="statistic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="274" />
+        <entry key="CHINESE_TRADITIONAL" value="275" />
         <entry key="ENGLISH" value="115" />
         <entry key="ESPERANTO" value="1" />
       </map>
