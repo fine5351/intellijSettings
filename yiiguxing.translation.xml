@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="remain" />
       <item value="TERMINATE" />
       <item value="amount" />
       <item value="測試資料" />
@@ -101,7 +102,6 @@
       <item value="完整的" />
       <item value="tier" />
       <item value="傳入" />
-      <item value="star trail" />
     </histories>
     <option name="languageScores">
       <map>
