@@ -1,51 +1,32 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
     <option name="hits" value="944" />
-    <option name="lastVersion" value="1.13.2" />
+    <option name="lastVersion" value="1.14.0" />
     <option name="remotes">
       <map>
         <entry key="http://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack">
           <value>
-            <state><![CDATA[{
-  "remoteUrl": "http://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack",
-  "gitlabUrl": "http://gitlab.jkos.app/api/v4",
-  "remoteId": 412
-}]]></state>
+            <Remote />
           </value>
         </entry>
         <entry key="https://gitlab.jkopay.app/rd4/jkopay-membership-rank">
           <value>
-            <state><![CDATA[{
-  "remoteUrl": "https://gitlab.jkopay.app/rd4/jkopay-membership-rank",
-  "gitlabUrl": "https://gitlab.jkopay.app/api/v4"
-}]]></state>
+            <Remote />
           </value>
         </entry>
         <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-donation">
           <value>
-            <state><![CDATA[{
-  "remoteUrl": "https://gitlab.jkos.app/rd3-jkos/jkos-donation",
-  "gitlabUrl": "https://gitlab.jkos.app/api/v4",
-  "remoteId": 563
-}]]></state>
+            <Remote />
           </value>
         </entry>
         <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack">
           <value>
-            <state><![CDATA[{
-  "remoteUrl": "https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack",
-  "gitlabUrl": "https://gitlab.jkos.app/api/v4",
-  "remoteId": 412
-}]]></state>
+            <Remote />
           </value>
         </entry>
         <entry key="https://gitlab.jkos.app/rd3/spring-template">
           <value>
-            <state><![CDATA[{
-  "remoteUrl": "https://gitlab.jkos.app/rd3/spring-template",
-  "gitlabUrl": "https://gitlab.jkos.app/api/v4",
-  "remoteId": 401
-}]]></state>
+            <Remote />
           </value>
         </entry>
       </map>
