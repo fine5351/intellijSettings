@@ -49,9 +49,10 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
     <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="278" />
+    <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="leniency" />
       <item value="always" />
       <item value="manual" />
       <item value="Your branch and 'origin/doc/auto-gen-open-api-on-ci-pipeline' have diverged," />
@@ -101,7 +102,6 @@
       <item value="incoming" />
       <item value="修正" />
       <item value="在區間內" />
-      <item value="再區間內" />
     </histories>
     <option name="languageScores">
       <map>
