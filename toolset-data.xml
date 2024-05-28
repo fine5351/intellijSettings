@@ -7,7 +7,7 @@
     <option name="generate_mima_length" value="10" />
     <option name="generate_uuid" value="89385e0c48a0411ba389c95f497a52bd" />
     <option name="generate_snowflake" value="1795354494672257024" />
-    <option name="websocket_server_url" value="wss://sit-msghub-ws.jkos.app/engine.io/?EIO=4" />
+    <option name="websocket_server_url" value="wss://localhost:18081/engine.io/?EIO=4" />
     <option name="websocket_send_content" value="hello" />
     <option name="jwt_header" value="{&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}" />
     <option name="jwt_payload" value="{&quot;sub&quot;:&quot;1234567890&quot;,&quot;name&quot;:&quot;Toolset&quot;,&quot;iat&quot;:1800000000}" />
