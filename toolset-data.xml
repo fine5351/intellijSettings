@@ -1,0 +1,33 @@
+<application>
+  <component name="ToolsetData">
+    <option name="data_init" value="true" />
+    <option name="convert_common_left" value="SDfvsdfghsdgasdfgdfsg" />
+    <option name="convert_common_right" value="" />
+    <option name="generate_mima" value="24BKGQEn6$" />
+    <option name="generate_mima_length" value="10" />
+    <option name="generate_uuid" value="89385e0c48a0411ba389c95f497a52bd" />
+    <option name="generate_snowflake" value="1795354494672257024" />
+    <option name="websocket_server_url" value="wss://sit-msghub-ws.jkos.app/engine.io/?EIO=4&amp;transport=websocket" />
+    <option name="websocket_send_content" value="hello" />
+    <option name="jwt_header" value="{&quot;typ&quot;:&quot;JWT&quot;,&quot;alg&quot;:&quot;HS256&quot;}" />
+    <option name="jwt_payload" value="{&quot;sub&quot;:&quot;1234567890&quot;,&quot;name&quot;:&quot;Toolset&quot;,&quot;iat&quot;:1800000000}" />
+    <option name="jwt_result" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlRvb2xzZXQiLCJpYXQiOjE4MDAwMDAwMDB9.Gx8UZTMllYCaPOtMsBvJpPF4p3USqSx7ozj01lZg3w0" />
+    <option name="noteList">
+      <list>
+        <NoteData>
+          <option name="id" value="7a6c348853cb474e97844f9f7213fe95" />
+          <option name="title" value="Note0" />
+          <option name="content" value="" />
+        </NoteData>
+      </list>
+    </option>
+    <option name="httpRequestList">
+      <list>
+        <HttpRequestData>
+          <option name="id" value="da0b574dfa7c4fc388dedc8fe2a86176" />
+          <option name="title" value="Request0" />
+        </HttpRequestData>
+      </list>
+    </option>
+  </component>
+</application>
