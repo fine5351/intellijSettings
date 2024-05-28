@@ -52,6 +52,10 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="contents are identical" />
+      <item value="contents are identi" />
+      <item value="contents" />
+      <item value="con" />
       <item value="leniency" />
       <item value="always" />
       <item value="manual" />
@@ -98,10 +102,6 @@
       <item value="validateAllStoreIdAreSame" />
       <item value="repair" />
       <item value="復原" />
-      <item value="如何使用聖甲蟲快速獲得大量傳奇裝備?" />
-      <item value="incoming" />
-      <item value="修正" />
-      <item value="在區間內" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="hits" value="944" />
+    <option name="hits" value="945" />
     <option name="lastVersion" value="1.14.0" />
     <option name="remotes">
       <map>
@@ -21,7 +21,11 @@
         </entry>
         <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack">
           <value>
-            <Remote />
+            <Remote>
+              <option name="gitlabUrl" value="https://gitlab.jkos.app/api/v4" />
+              <option name="remoteId" value="412" />
+              <option name="remoteUrl" value="https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack" />
+            </Remote>
           </value>
         </entry>
         <entry key="https://gitlab.jkos.app/rd3/spring-template">
