@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="gitlab.jkos.app" id="94d4b595-7be7-4372-b1a0-4f0c938769c2" keyPath="C:\Users\eric.kuo\.ssh\gitlab-ssh-key" port="22" nameFormat="DESCRIPTIVE" username="erickuo" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
