@@ -34,7 +34,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1716777398298" />
+    <option name="lastTrimTime" value="1717549304877" />
   </component>
   <component name="Translation.Settings">
     <option name="phoneticFontFamily" value="DialogInput" />
@@ -48,10 +48,26 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
-    <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="295" />
+    <option name="translationDialogLocationX" value="501" />
+    <option name="translationDialogLocationY" value="131" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="communicate to" />
+      <item value="communicate tp" />
+      <item value="communicate " />
+      <item value="communicate with" />
+      <item value="communicate" />
+      <item value="communicat" />
+      <item value="comm" />
+      <item value="聯繫線上所有程" />
+      <item value="聯繫線上所有成員" />
+      <item value="聯繫線上所有" />
+      <item value="聯繫線上" />
+      <item value="聯繫" />
+      <item value="連繫縣ㄘㄤˋ" />
+      <item value="ㄌ" />
+      <item value="與我連" />
+      <item value="與我聯絡" />
       <item value="contents are identical" />
       <item value="contents are identi" />
       <item value="contents" />
@@ -86,28 +102,12 @@
       <item value="2" />
       <item value="is All Same Product" />
       <item value="is All SameProduct" />
-      <item value="is AllSameProduct" />
-      <item value="isAllSameProduct" />
-      <item value="stock operation" />
-      <item value="stock operat" />
-      <item value="stock operate" />
-      <item value="庫存操作" />
-      <item value="庫存" />
-      <item value="庫存凹做" />
-      <item value="庫ㄨㄣ" />
-      <item value="validate All Store Id Are Same" />
-      <item value="validate All Store Id AreSame" />
-      <item value="validate All StoreIdAreSame" />
-      <item value="validate AllStoreIdAreSame" />
-      <item value="validateAllStoreIdAreSame" />
-      <item value="repair" />
-      <item value="復原" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="277" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE_TRADITIONAL" value="279" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
