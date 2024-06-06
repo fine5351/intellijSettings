@@ -12,7 +12,7 @@
     </driver>
     <driver id="mysql.8">
       <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.2.0" />
       <library native="true">
         <url>file://$USER_HOME$/AppData/Roaming/DBeaverData/drivers/maven/maven-central/mysql/mysql-connector-java-8.0.29.jar</url>
       </library>
