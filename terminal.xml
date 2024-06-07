@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCopyOnSelection" value="true" />
+    <option name="myShellPath" value="C:\Users\eric.kuo\work\workspace\script\powershell-start.bat" />
     <option name="myTabName" value="powershell" />
   </component>
 </application>
