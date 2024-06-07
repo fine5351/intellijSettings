@@ -1,7 +1,7 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
     <option name="hits" value="1010" />
-    <option name="lastVersion" value="1.14.0" />
+    <option name="lastVersion" value="1.14.1" />
     <option name="remotes">
       <map>
         <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-msghub-stack">

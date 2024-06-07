@@ -2,7 +2,7 @@
   <component name="org.ideplugins.gitlab-yaml-pipeline-lint-app">
     <option name="configuration">
       <map>
-        <entry key="lastVersion" value="0.0.9" />
+        <entry key="lastVersion" value="0.0.10" />
         <entry key="sentryDsn" value="https://7d4198fb3aee48c7a39623a38581d3b3@o4504774398246912.ingest.sentry.io/4504786707742720" />
       </map>
     </option>
