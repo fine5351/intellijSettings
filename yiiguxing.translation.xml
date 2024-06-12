@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="236" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="surrogate" />
       <item value="最後的" />
       <item value="communicate to" />
       <item value="communicate tp" />
@@ -101,7 +102,6 @@
       <item value="get One" />
       <item value="遞增" />
       <item value="2" />
-      <item value="is All Same Product" />
     </histories>
     <option name="languageScores">
       <map>
