@@ -8,13 +8,6 @@
       <mapping pattern="Makefile-MRM" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
