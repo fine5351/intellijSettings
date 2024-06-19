@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="HistoricallyNamedCharset" />
       <item value="雙寫" />
       <item value="Circuit" />
       <item value="branch" />
@@ -101,7 +102,6 @@
       <item value="眷住" />
       <item value="distinct" />
       <item value="exists" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
