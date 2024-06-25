@@ -48,10 +48,11 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
-    <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="295" />
+    <option name="translationDialogLocationX" value="501" />
+    <option name="translationDialogLocationY" value="236" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="Fielddata is disabled on [msg] in [sit-jkos-svc-msghub-2024.06.18]. Text fields are not optimised for operations that require per-document field data like aggregations and sorting, so these operations are disabled by default. Please use a keyword field instead. Alternatively, set fielddata=true on [msg] in order to load field data by uninverting the inverted index. Note that this can use significant memory.&#10;Runtime fields without a script retrieve values from _source. If the field doesn't exist in _source, a search request returns no value. Learn about script syntax." />
       <item value="HistoricallyNamedCharset" />
       <item value="雙寫" />
       <item value="Circuit" />
@@ -101,7 +102,6 @@
       <item value="donation to " />
       <item value="眷住" />
       <item value="distinct" />
-      <item value="exists" />
     </histories>
     <option name="languageScores">
       <map>
