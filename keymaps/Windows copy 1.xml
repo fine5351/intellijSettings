@@ -63,7 +63,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="CompareTwoFiles" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Compile" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl b" />
