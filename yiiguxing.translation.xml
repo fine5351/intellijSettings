@@ -52,6 +52,19 @@
     <option name="translationDialogLocationY" value="236" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="Urgent language threatening account closure if action is not taken immediately" />
+      <item value="An abundance of time to ensure the victim fully understands the request&#10;&#10;Persuasion and manipulation to get the victim to give information or perform a malicious action" />
+      <item value="An abundance of time to ensure the victim fully understands the request" />
+      <item value="expected&#10;An abundance of time to ensure the victim fully understands the request" />
+      <item value="expected&#10;" />
+      <item value="phising" />
+      <item value="phis" />
+      <item value="Review the email below. Identify if it is a phishing email or if it is legitimate.&#10;Subject: Security Alert: Suspicious Activity&#10;&#10;From: supports@iwb.com&#10;&#10;Reply-To: Intenationalworldbanks@mybank.com&#10;&#10;To: you@youremail.com&#10;&#10;Date: Monday, April 1, 3:30 AM&#10;&#10;Dear Customer,&#10;&#10;We have detected suspicious activity on your account. For your protection, we have temporarily suspended your account.&#10;&#10;To verify your account and lift the suspension, please select the link below and provide the necessary information:&#10;&#10;Verify My Account&#10;&#10;Failure to verify within 12 hours will result in permanent account deactivation.&#10;&#10;" />
+      <item value="Select all the options that are generally considered appropriate and safe to post on social media." />
+      <item value="You have been using AI to increase productivity on your projects. While interacting with an AI chatbot, it requests access to specific project details to provide tailored suggestions. What should you do?" />
+      <item value="Dear User,&#10;&#10;Your account has been found in violation of our terms of service. Your account will be locked by 11:59 pm tonight. If you would like to avoid your account being locked, please follow the link below.&#10;&#10;http://accounts-twitter.com" />
+      <item value="Do You Know How to Spot a Scam?&#10;&#10;Not every scam is going to be obvious. Review the messages below. Using the dropdowns, choose whether you think each message is a scam.&#10;When you finish making your selections, select Submit." />
+      <item value="Personalized Attack Methods&#10;Cybercriminals impersonate executives or other people you trust in order to get you to share information or take a dangerous action.&#10;&#10;Select the icons below to learn more about these attacks." />
       <item value="Fielddata is disabled on [msg] in [sit-jkos-svc-msghub-2024.06.18]. Text fields are not optimised for operations that require per-document field data like aggregations and sorting, so these operations are disabled by default. Please use a keyword field instead. Alternatively, set fielddata=true on [msg] in order to load field data by uninverting the inverted index. Note that this can use significant memory.&#10;Runtime fields without a script retrieve values from _source. If the field doesn't exist in _source, a search request returns no value. Learn about script syntax." />
       <item value="HistoricallyNamedCharset" />
       <item value="雙寫" />
@@ -89,19 +102,6 @@
       <item value="confi" />
       <item value="xon" />
       <item value="remain" />
-      <item value="TERMINATE" />
-      <item value="amount" />
-      <item value="測試資料" />
-      <item value="測資" />
-      <item value="Respond" />
-      <item value="Recover" />
-      <item value="Recovery" />
-      <item value="Recoverㄗ" />
-      <item value="義賣商品" />
-      <item value="donation to group" />
-      <item value="donation to " />
-      <item value="眷住" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
