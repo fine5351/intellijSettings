@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="236" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="可忽略的" />
+      <item value="可跳過的" />
       <item value="Urgent language threatening account closure if action is not taken immediately" />
       <item value="An abundance of time to ensure the victim fully understands the request&#10;&#10;Persuasion and manipulation to get the victim to give information or perform a malicious action" />
       <item value="An abundance of time to ensure the victim fully understands the request" />
@@ -100,14 +102,12 @@
       <item value="confidential" />
       <item value="confiden" />
       <item value="confi" />
-      <item value="xon" />
-      <item value="remain" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="280" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE_TRADITIONAL" value="281" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
