@@ -53,7 +53,6 @@
                   <option name="file" value="${PLUGIN}\java\cassiuscai.assertj-vavr.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="cassiuscai.commons-lang3" />
                   <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/commons-lang3.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\cassiuscai.commons-lang3.postfixTemplates" />
@@ -158,11 +157,11 @@
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/msgHub.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
                 </VFile>
                 <VFile>
+                  <option name="enabled" value="true" />
                   <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/donation.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\Donation.postfixTemplates" />
                 </VFile>
