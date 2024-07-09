@@ -25,6 +25,7 @@
         <entry key="DeployHQ" value="false" />
         <entry key="Derby" value="false" />
         <entry key="Dynamo" value="false" />
+        <entry key="ECMA Script Level 4" value="false" />
         <entry key="EJBQL" value="false" />
         <entry key="EQL" value="false" />
         <entry key="ESLint" value="false" />
@@ -35,6 +36,7 @@
         <entry key="FTL&gt;" value="false" />
         <entry key="FTL]" value="false" />
         <entry key="Floobits" value="false" />
+        <entry key="Flow JS" value="false" />
         <entry key="Fossil" value="false" />
         <entry key="Gherkin" value="false" />
         <entry key="GitExclude" value="false" />
@@ -45,6 +47,7 @@
         <entry key="HTTP Request" value="false" />
         <entry key="HiveQL" value="false" />
         <entry key="HtmlCompatible" value="false" />
+        <entry key="HttpClientHandlerJavaScriptDialect" value="false" />
         <entry key="Ignore" value="false" />
         <entry key="IgnoreLang" value="false" />
         <entry key="InjectedFreeMarker" value="false" />
@@ -52,6 +55,7 @@
         <entry key="JPAQL" value="false" />
         <entry key="JQL" value="false" />
         <entry key="JSHint" value="false" />
+        <entry key="JSON5" value="false" />
         <entry key="JSRegexp" value="false" />
         <entry key="JSUnicodeRegexp" value="false" />
         <entry key="JShellLanguage" value="false" />
@@ -64,7 +68,10 @@
         <entry key="MongoDB" value="false" />
         <entry key="MongoDB-JSON" value="false" />
         <entry key="MongoJS" value="false" />
+        <entry key="MongoJSExt" value="false" />
         <entry key="Monotone" value="false" />
+        <entry key="NBMindMap" value="false" />
+        <entry key="Nashorn JS" value="false" />
         <entry key="Nodemon" value="false" />
         <entry key="Npm" value="false" />
         <entry key="NuxtJS" value="false" />
@@ -73,6 +80,7 @@
         <entry key="OracleSqlPlus" value="false" />
         <entry key="Perforce" value="false" />
         <entry key="PointcutExpression" value="false" />
+        <entry key="PostCSS" value="false" />
         <entry key="PostgreSQL" value="false" />
         <entry key="Prettier" value="false" />
         <entry key="RELAX-NG" value="false" />
