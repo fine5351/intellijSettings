@@ -48,10 +48,11 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="439" />
-    <option name="translationDialogLocationX" value="501" />
-    <option name="translationDialogLocationY" value="236" />
+    <option name="translationDialogLocationX" value="608" />
+    <option name="translationDialogLocationY" value="251" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="representative" />
       <item value="可忽略的" />
       <item value="可跳過的" />
       <item value="Urgent language threatening account closure if action is not taken immediately" />
@@ -101,7 +102,6 @@
       <item value="Your branch and 'origin/doc/auto-gen-open-api-on-ci-pipeline' have diverged," />
       <item value="confidential" />
       <item value="confiden" />
-      <item value="confi" />
     </histories>
     <option name="languageScores">
       <map>
