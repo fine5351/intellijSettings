@@ -5,7 +5,6 @@
         <value>
           <set>
             <option value="arg" />
-            <option value="assert" />
             <option value="com.intellij.codeInsight.template.postfix.templates.CastExpressionPostfixTemplate#.cast" />
             <option value="com.intellij.codeInsight.template.postfix.templates.ElseStatementPostfixTemplate#.else" />
             <option value="com.intellij.codeInsight.template.postfix.templates.InstanceofExpressionPostfixTemplate#.inst" />
