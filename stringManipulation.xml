@@ -64,9 +64,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToScreamingSnakeCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: SCREAMING_SNAKE_CASE / camelCase" />
-        <option name="textWithMnemonic" value="SCREAMING_SNAKE_CASE / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToPascalCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: PascalCase / camelCase" />
+        <option name="textWithMnemonic" value="PascalCase / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
