@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="進度" />
+      <item value="rup42j4" />
       <item value="差異" />
       <item value="representative" />
       <item value="可忽略的" />
@@ -100,8 +102,6 @@
       <item value="leniency" />
       <item value="always" />
       <item value="manual" />
-      <item value="Your branch and 'origin/doc/auto-gen-open-api-on-ci-pipeline' have diverged," />
-      <item value="confidential" />
     </histories>
     <option name="languageScores">
       <map>
