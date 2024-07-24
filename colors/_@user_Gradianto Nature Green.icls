@@ -4,7 +4,7 @@
     <property name="created">2022-11-14T14:10:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2024-07-19T14:54:10</property>
+    <property name="modified">2024-07-24T17:16:41</property>
     <property name="originalScheme">Gradianto Nature Green</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -68,7 +68,7 @@
         <option name="FOREGROUND" value="bddcff" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff4d4c" />
