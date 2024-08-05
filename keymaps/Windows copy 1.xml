@@ -252,6 +252,9 @@
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="RmUnusedMethod">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
