@@ -124,8 +124,10 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="minio_dwad_data_service_dynamic_white_list_dynamic_white_list_2024_06_21_08_04_56_csv_1.data.csv\dynamic_white_list_2024_06_21_08_04_56.column.csv(downloaded)" />
+        <option value="$USER_HOME$/Downloads/refund-raw.csv" />
+        <option value="$USER_HOME$/Downloads/skb_refund_data.csv" />
         <option value="minio_dwad_data_service_dynamic_white_list_dynamic_white_list_2024_06_21_08_04_56_csv_0.data.csv\dynamic_white_list_2024_06_21_08_04_56.column.csv(downloaded)" />
+        <option value="minio_dwad_data_service_dynamic_white_list_dynamic_white_list_2024_06_21_08_04_56_csv_1.data.csv\dynamic_white_list_2024_06_21_08_04_56.column.csv(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\eric.kuo\AppData\Local\Temp\HDFS-downloaded" />
