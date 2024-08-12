@@ -4,7 +4,7 @@
     <property name="created">2022-11-14T14:10:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2024-08-12T15:34:23</property>
+    <property name="modified">2024-08-12T15:39:04</property>
     <property name="originalScheme">Gradianto Nature Green</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -101,9 +101,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5e946c" />
@@ -423,8 +423,8 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.BRACES" baseAttributes="" />
     <option name="REGEXP.BRACKETS">
       <value>
