@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="traditional" />
+      <item value="tra" />
       <item value="marshal" />
       <item value="unmarshal" />
       <item value="subscriptable" />
@@ -100,8 +102,6 @@
       <item value="連繫縣ㄘㄤˋ" />
       <item value="ㄌ" />
       <item value="與我連" />
-      <item value="與我聯絡" />
-      <item value="contents are identical" />
     </histories>
     <option name="languageScores">
       <map>
