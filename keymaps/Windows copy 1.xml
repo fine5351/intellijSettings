@@ -247,6 +247,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="RecentChanges" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -309,6 +310,7 @@
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="context.clear" />
   <action id="copilot.chat.show" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
@@ -321,10 +323,10 @@
   </action>
   <action id="runShellFileAction" />
   <action id="toolset.bZ">
-    <keyboard-shortcut first-keystroke="shift c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="toolset.br">
-    <keyboard-shortcut first-keystroke="shift x" />
+    <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
   <action id="toolset.f6">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
