@@ -124,6 +124,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/義賣商品出貨報表_20240822.csv" />
         <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/義賣商品出貨報表_20240820.csv" />
         <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/捐款交易紀錄_單次捐款_20240813.csv" />
         <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/捐款交易紀錄_單次捐款_20240813-1.csv" />
@@ -133,7 +134,6 @@
         <option value="$USER_HOME$/Downloads/skb_refund_data.csv" />
         <option value="$USER_HOME$/Downloads/refund-raw.csv" />
         <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/捐款交易紀錄_義賣商品_20240816.csv" />
-        <option value="$USER_HOME$/work/workspace/rd3/jkos-donation/.idea/httpRequests/捐款交易紀錄_義賣商品_20240816-1.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="C:\Users\eric.kuo\AppData\Local\Temp\HDFS-downloaded" />
