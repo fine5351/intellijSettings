@@ -9,6 +9,7 @@
       <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="spreadsheet" type="XML" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
