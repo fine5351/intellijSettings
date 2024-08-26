@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="範圍" />
       <item value="regular donation number" />
       <item value="traditional" />
       <item value="tra" />
@@ -101,13 +102,12 @@
       <item value="聯繫線上" />
       <item value="聯繫" />
       <item value="連繫縣ㄘㄤˋ" />
-      <item value="ㄌ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="282" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE_TRADITIONAL" value="283" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
