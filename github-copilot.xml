@@ -42,24 +42,23 @@
         <entry key="GitExclude" value="false" />
         <entry key="Google Cloud" value="false" />
         <entry key="Greenplum" value="false" />
+        <entry key="H2" value="false" />
         <entry key="HQL" value="false" />
         <entry key="HSQLDB" value="false" />
-        <entry key="HTTP Request" value="false" />
         <entry key="HiveQL" value="false" />
         <entry key="HtmlCompatible" value="false" />
         <entry key="HttpClientHandlerJavaScriptDialect" value="false" />
-        <entry key="Ignore" value="false" />
-        <entry key="IgnoreLang" value="false" />
         <entry key="InjectedFreeMarker" value="false" />
         <entry key="IntegrationPerformanceTest" value="false" />
         <entry key="JPAQL" value="false" />
         <entry key="JQL" value="false" />
+        <entry key="JQuery-CSS" value="false" />
         <entry key="JSHint" value="false" />
+        <entry key="JSON Lines" value="false" />
         <entry key="JSON5" value="false" />
         <entry key="JSRegexp" value="false" />
         <entry key="JSUnicodeRegexp" value="false" />
         <entry key="JShellLanguage" value="false" />
-        <entry key="JVM" value="false" />
         <entry key="Jetpack" value="false" />
         <entry key="KND" value="false" />
         <entry key="Kubernetes Helm" value="false" />
@@ -86,7 +85,6 @@
         <entry key="RELAX-NG" value="false" />
         <entry key="Redshift" value="false" />
         <entry key="SPI" value="false" />
-        <entry key="SQL" value="false" />
         <entry key="SQL92" value="false" />
         <entry key="SQLDateTime" value="false" />
         <entry key="SQLite" value="false" />
@@ -105,11 +103,14 @@
         <entry key="Team Foundation" value="false" />
         <entry key="Terraform" value="false" />
         <entry key="Tokei" value="false" />
-        <entry key="UAST" value="false" />
         <entry key="UastContextLanguage" value="false" />
         <entry key="Up" value="false" />
         <entry key="Vercel" value="false" />
         <entry key="Vertica" value="false" />
+        <entry key="Vue" value="false" />
+        <entry key="VueExpr" value="false" />
+        <entry key="VueJS" value="false" />
+        <entry key="VueTS" value="false" />
         <entry key="WP-CLI" value="false" />
         <entry key="XHTML" value="false" />
         <entry key="XsdRegExp" value="false" />
