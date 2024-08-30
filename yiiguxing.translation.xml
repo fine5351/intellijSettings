@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="295" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="歷年" />
       <item value="administrativeRegion" />
       <item value="行政區域" />
       <item value="郵遞區號" />
@@ -101,13 +102,12 @@
       <item value="communicate" />
       <item value="communicat" />
       <item value="comm" />
-      <item value="聯繫線上所有程" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="288" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE_TRADITIONAL" value="289" />
+        <entry key="ENGLISH" value="126" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
