@@ -1,6 +1,6 @@
 <application>
   <component name="com.github.blarc.gitlab.template.lint.plugin.settings.AppSettingsState">
-    <option name="hits" value="1314" />
+    <option name="hits" value="1317" />
     <option name="lastVersion" value="1.14.1" />
     <option name="remotes">
       <map>
@@ -9,6 +9,15 @@
             <Remote>
               <option name="gitlabUrl" value="https://gitlab.jkopay.app/api/v4" />
               <option name="remoteUrl" value="https://gitlab.jkopay.app/rd3/jkopay-ebpp" />
+            </Remote>
+          </value>
+        </entry>
+        <entry key="https://gitlab.jkos.app/rd3-jkos/jkos-donation">
+          <value>
+            <Remote>
+              <option name="gitlabUrl" value="https://gitlab.jkos.app/api/v4" />
+              <option name="remoteId" value="563" />
+              <option name="remoteUrl" value="https://gitlab.jkos.app/rd3-jkos/jkos-donation" />
             </Remote>
           </value>
         </entry>
