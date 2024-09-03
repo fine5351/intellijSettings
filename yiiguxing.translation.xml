@@ -49,9 +49,10 @@
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="430" />
     <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="295" />
+    <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="kick out" />
       <item value="debit" />
       <item value="歷年" />
       <item value="administrativeRegion" />
@@ -101,7 +102,6 @@
       <item value="communicate " />
       <item value="communicate with" />
       <item value="communicate" />
-      <item value="communicat" />
     </histories>
     <option name="languageScores">
       <map>
