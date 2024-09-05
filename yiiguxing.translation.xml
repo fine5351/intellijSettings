@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="優化" />
+      <item value="enhance" />
       <item value="kick out" />
       <item value="debit" />
       <item value="歷年" />
@@ -100,14 +102,12 @@
       <item value="communicate to" />
       <item value="communicate tp" />
       <item value="communicate " />
-      <item value="communicate with" />
-      <item value="communicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="289" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE_TRADITIONAL" value="290" />
+        <entry key="ENGLISH" value="127" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
