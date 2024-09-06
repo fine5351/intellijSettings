@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="展延" />
       <item value="優化" />
       <item value="enhance" />
       <item value="kick out" />
@@ -101,12 +102,11 @@
       <item value="最後的" />
       <item value="communicate to" />
       <item value="communicate tp" />
-      <item value="communicate " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="290" />
+        <entry key="CHINESE_TRADITIONAL" value="291" />
         <entry key="ENGLISH" value="127" />
         <entry key="ESPERANTO" value="1" />
       </map>
