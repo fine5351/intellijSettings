@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="canceled" />
+      <item value="can" />
       <item value="展延" />
       <item value="優化" />
       <item value="enhance" />
@@ -100,13 +102,11 @@
       <item value="分支" />
       <item value="surrogate" />
       <item value="最後的" />
-      <item value="communicate to" />
-      <item value="communicate tp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="291" />
+        <entry key="CHINESE_TRADITIONAL" value="292" />
         <entry key="ENGLISH" value="127" />
         <entry key="ESPERANTO" value="1" />
       </map>
