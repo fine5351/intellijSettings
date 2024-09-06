@@ -52,6 +52,8 @@
     <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="專案已結束" />
+      <item value="專案結束" />
       <item value="canceled" />
       <item value="can" />
       <item value="展延" />
@@ -100,14 +102,12 @@
       <item value="Circuit" />
       <item value="branch" />
       <item value="分支" />
-      <item value="surrogate" />
-      <item value="最後的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="292" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE_TRADITIONAL" value="293" />
+        <entry key="ENGLISH" value="128" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
