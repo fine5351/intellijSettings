@@ -52,6 +52,7 @@
     <option name="translationDialogLocationY" value="300" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="專業能力" />
       <item value="專案已結束" />
       <item value="專案結束" />
       <item value="canceled" />
@@ -101,13 +102,12 @@
       <item value="雙寫" />
       <item value="Circuit" />
       <item value="branch" />
-      <item value="分支" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="293" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE_TRADITIONAL" value="295" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
