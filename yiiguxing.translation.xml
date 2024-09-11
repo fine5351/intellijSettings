@@ -48,10 +48,15 @@
     <option name="pinTranslationDialog" value="true" />
     <option name="translationDialogCollapseDictViewer" value="false" />
     <option name="translationDialogHeight" value="430" />
-    <option name="translationDialogLocationX" value="608" />
-    <option name="translationDialogLocationY" value="300" />
+    <option name="translationDialogLocationX" value="672" />
+    <option name="translationDialogLocationY" value="336" />
     <option name="translationDialogWidth" value="702" />
     <histories>
+      <item value="extended" />
+      <item value="extend" />
+      <item value="extends&#10;" />
+      <item value="extends" />
+      <item value="Postponed" />
       <item value="專業能力" />
       <item value="專案已結束" />
       <item value="專案結束" />
@@ -97,11 +102,6 @@
       <item value="Dear User,&#10;&#10;Your account has been found in violation of our terms of service. Your account will be locked by 11:59 pm tonight. If you would like to avoid your account being locked, please follow the link below.&#10;&#10;http://accounts-twitter.com" />
       <item value="Do You Know How to Spot a Scam?&#10;&#10;Not every scam is going to be obvious. Review the messages below. Using the dropdowns, choose whether you think each message is a scam.&#10;When you finish making your selections, select Submit." />
       <item value="Personalized Attack Methods&#10;Cybercriminals impersonate executives or other people you trust in order to get you to share information or take a dangerous action.&#10;&#10;Select the icons below to learn more about these attacks." />
-      <item value="Fielddata is disabled on [msg] in [sit-jkos-svc-msghub-2024.06.18]. Text fields are not optimised for operations that require per-document field data like aggregations and sorting, so these operations are disabled by default. Please use a keyword field instead. Alternatively, set fielddata=true on [msg] in order to load field data by uninverting the inverted index. Note that this can use significant memory.&#10;Runtime fields without a script retrieve values from _source. If the field doesn't exist in _source, a search request returns no value. Learn about script syntax." />
-      <item value="HistoricallyNamedCharset" />
-      <item value="雙寫" />
-      <item value="Circuit" />
-      <item value="branch" />
     </histories>
     <option name="languageScores">
       <map>
