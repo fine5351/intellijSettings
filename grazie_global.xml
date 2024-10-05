@@ -239,18 +239,18 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="MsgHub_Scheduler" />
-            <option value="package" />
-            <option value="置步驟" />
-            <option value="MsgHub_Schedule" />
+            <option value="-" />
+            <option value="@enduml" />
             <option value="Frozen request 調整" />
-            <option value="MsgHub_Consumer" />
+            <option value="Id" />
             <option value="MsgHub_API" />
+            <option value="MsgHub_Consumer" />
+            <option value="MsgHub_Schedule" />
+            <option value="MsgHub_Scheduler" />
             <option value="end" />
             <option value="is" />
-            <option value="Id" />
-            <option value="@enduml" />
-            <option value="-" />
+            <option value="package" />
+            <option value="置步驟" />
           </set>
         </option>
       </SuppressingContext>
