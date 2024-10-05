@@ -1,0 +1,63 @@
+<scheme name="_@user_Gradianto Nature Green" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-11-14T14:10:17</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2024-03-16T14:04:44</property>
+    <property name="originalScheme">Gradianto Nature Green</property>
+    <property name="partialSave">true</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <attributes>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="3e7052" />
+        <option name="ERROR_STRIPE_COLOR" value="8d4a5f" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="1dd71d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="e80e0e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="e2e20a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="24594d" />
+        <option name="EFFECT_COLOR" value="223770" />
+        <option name="ERROR_STRIPE_COLOR" value="488093" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
