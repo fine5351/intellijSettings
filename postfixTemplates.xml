@@ -1,0 +1,52 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.java">
+        <value>
+          <set>
+            <option value="arg" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.CastExpressionPostfixTemplate#.cast" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.ElseStatementPostfixTemplate#.else" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.InstanceofExpressionPostfixTemplate#.inst" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.InstanceofExpressionPostfixTemplate#.instanceof" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.IntroduceFieldPostfixTemplate#.field" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.IsNullCheckPostfixTemplate#.null" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotExpressionPostfixTemplate#!" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotExpressionPostfixTemplate#.not" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.nn" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.NotNullCheckPostfixTemplate#.notnull" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.ParenthesizedExpressionPostfixTemplate#.par" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.StreamPostfixTemplate#.stream" />
+            <option value="com.intellij.codeInsight.template.postfix.templates.TryStatementPostfixTemplate#.try" />
+            <option value="format" />
+            <option value="forr" />
+            <option value="iter" />
+            <option value="reqnonnull" />
+            <option value="serr" />
+            <option value="souf" />
+            <option value="sout" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="builtin.sql">
+        <value>
+          <set>
+            <option value="com.intellij.sql.postfixTemplates.SqlAllAliasedFromPostfixTemplate#.afrom" />
+            <option value="com.intellij.sql.postfixTemplates.SqlAllFromPostfixTemplate#.cfrom" />
+            <option value="com.intellij.sql.postfixTemplates.SqlCastPostfixTemplate#.cast" />
+            <option value="com.intellij.sql.postfixTemplates.SqlFromPostfixTemplate#.from" />
+            <option value="com.intellij.sql.postfixTemplates.SqlJoinPostfixTemplate#.join" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="de.plushnikov.intellij.plugin.extension.postfix.LombokPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="de.plushnikov.intellij.plugin.extension.postfix.LombokValPostfixTemplate#.val" />
+            <option value="de.plushnikov.intellij.plugin.extension.postfix.LombokVarPostfixTemplate#.varl" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>

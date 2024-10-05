@@ -35,13 +35,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="BookmarksView.MoveUp" />
-  <action id="ChangesView.Refresh">
-    <keyboard-shortcut first-keystroke="ctrl f5" />
-  </action>
   <action id="ChangesView.ShelveSilently" />
-  <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -69,7 +63,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="CompareTwoFiles" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Compile" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl b" />
@@ -155,9 +151,6 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
-  <action id="Git.ChangesView.AcceptTheirs">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
@@ -171,6 +164,7 @@
   <action id="Git.Rebase">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoAction" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -194,6 +188,7 @@
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Graph.AlignNodes.Center" />
   <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
@@ -252,6 +247,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="RecentChanges" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -259,6 +255,9 @@
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="RerunTests" />
+  <action id="RmUnusedMethod">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
@@ -293,9 +292,6 @@
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
-  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
-    <keyboard-shortcut first-keystroke="shift ctrl x" />
-  </action>
   <action id="TableResult.GrowSelection" />
   <action id="Terminal.ClearBuffer" />
   <action id="TypeHierarchy" />
@@ -313,10 +309,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="XDebugger.CopyWatch" />
-  <action id="cn.xr21.chat.gpt--1,864,491,879">
-    <keyboard-shortcut first-keystroke="shift ctrl x" />
-  </action>
   <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="context.clear" />
+  <action id="copilot.chat.show" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
@@ -326,11 +321,17 @@
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
-  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
-  </action>
   <action id="runShellFileAction" />
-  <action id="x.editor.action.group">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  <action id="toolset.bZ">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="toolset.br">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="toolset.f6">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="toolset.fI">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
 </keymap>

@@ -1,0 +1,115 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="586" />
+    <option name="newTranslationDialogY" value="354" />
+    <histories>
+      <item value="introspected" />
+      <item value="introspe" />
+      <item value="int" />
+      <item value="ㄍㄣ" />
+      <item value="特權" />
+      <item value="achieve condition" />
+      <item value="achievement condition" />
+      <item value="achievement" />
+      <item value="ㄇ" />
+      <item value="已達成條件" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE_TRADITIONAL" value="15" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669595670508" />
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="phoneticFontFamily" value="Fira Code" />
+    <option name="primaryFontFamily" value="Fira Code" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1725843415872" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="phoneticFontFamily" value="DialogInput" />
+    <option name="primaryFontFamily" value="DialogInput" />
+    <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+    <option name="targetLanguageSelection" value="LAST" />
+    <option name="translateDocumentation" value="true" />
+    <option name="ttsSource" value="TRANSLATION" />
+  </component>
+  <component name="Translation.States">
+    <option name="pinTranslationDialog" value="true" />
+    <option name="translationDialogCollapseDictViewer" value="false" />
+    <option name="translationDialogHeight" value="430" />
+    <option name="translationDialogLocationX" value="672" />
+    <option name="translationDialogLocationY" value="336" />
+    <option name="translationDialogWidth" value="702" />
+    <histories>
+      <item value="snippet" />
+      <item value="sn" />
+      <item value="ㄙㄣ" />
+      <item value="ㄙ" />
+      <item value="extended" />
+      <item value="extend" />
+      <item value="extends&#10;" />
+      <item value="extends" />
+      <item value="Postponed" />
+      <item value="專業能力" />
+      <item value="專案已結束" />
+      <item value="專案結束" />
+      <item value="canceled" />
+      <item value="can" />
+      <item value="展延" />
+      <item value="優化" />
+      <item value="enhance" />
+      <item value="kick out" />
+      <item value="debit" />
+      <item value="歷年" />
+      <item value="administrativeRegion" />
+      <item value="行政區域" />
+      <item value="郵遞區號" />
+      <item value="sweet" />
+      <item value="wu06" />
+      <item value="範圍" />
+      <item value="regular donation number" />
+      <item value="traditional" />
+      <item value="tra" />
+      <item value="marshal" />
+      <item value="unmarshal" />
+      <item value="subscriptable" />
+      <item value="hight" />
+      <item value="high" />
+      <item value="權限" />
+      <item value="進度" />
+      <item value="rup42j4" />
+      <item value="差異" />
+      <item value="representative" />
+      <item value="可忽略的" />
+      <item value="可跳過的" />
+      <item value="Urgent language threatening account closure if action is not taken immediately" />
+      <item value="An abundance of time to ensure the victim fully understands the request&#10;&#10;Persuasion and manipulation to get the victim to give information or perform a malicious action" />
+      <item value="An abundance of time to ensure the victim fully understands the request" />
+      <item value="expected&#10;An abundance of time to ensure the victim fully understands the request" />
+      <item value="expected&#10;" />
+      <item value="phising" />
+      <item value="phis" />
+      <item value="Review the email below. Identify if it is a phishing email or if it is legitimate.&#10;Subject: Security Alert: Suspicious Activity&#10;&#10;From: supports@iwb.com&#10;&#10;Reply-To: Intenationalworldbanks@mybank.com&#10;&#10;To: you@youremail.com&#10;&#10;Date: Monday, April 1, 3:30 AM&#10;&#10;Dear Customer,&#10;&#10;We have detected suspicious activity on your account. For your protection, we have temporarily suspended your account.&#10;&#10;To verify your account and lift the suspension, please select the link below and provide the necessary information:&#10;&#10;Verify My Account&#10;&#10;Failure to verify within 12 hours will result in permanent account deactivation.&#10;&#10;" />
+      <item value="Select all the options that are generally considered appropriate and safe to post on social media." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE_TRADITIONAL" value="295" />
+        <entry key="ENGLISH" value="129" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

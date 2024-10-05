@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="removedPositive">
+      <list>
+        <option value="at org.gradle." />
+      </list>
+    </option>
+  </component>
+</application>

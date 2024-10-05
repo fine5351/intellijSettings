@@ -1,0 +1,7 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.build.like.method" value="true" />
+    <option id="java.new.expr" value="false" />
+  </component>
+</application>
