@@ -11,60 +11,34 @@
       <mapping ext="spreadsheet" type="XML" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
-      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
-      <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="XML" />
-      <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
-      <removed_mapping ext="permissionset" approved="true" type="XML" />
-      <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="tab" approved="true" type="XML" />
-      <removed_mapping ext="tab" approved="true" type="XML" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="vmoptions" approved="true" type="Properties" />
-      <removed_mapping ext="vmoptions" approved="true" type="Properties" />
       <removed_mapping ext="wadl" approved="true" type="XML" />
-      <removed_mapping ext="wadl" approved="true" type="XML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
       <removed_mapping pattern=".gitlab-ci.yml" approved="true" type="Gitlab Yaml" />
-      <removed_mapping pattern=".gitlab-ci.yml" approved="true" type="Gitlab Yaml" />
-      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
       <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
       <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
-      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
       <removed_mapping pattern="application.properties" approved="true" type="Properties" />
       <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
       <removed_mapping pattern="application.yml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
-      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
-      <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
-      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
       <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
