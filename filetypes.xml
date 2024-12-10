@@ -8,6 +8,7 @@
       <mapping pattern="DockerfileBase" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileMsgHub" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="spreadsheet" type="XML" />
       <mapping pattern=".gitlab-ci.yml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
@@ -40,7 +41,6 @@
       <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
-      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>

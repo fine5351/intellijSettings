@@ -238,6 +238,9 @@
   <action id="OpenInRightSplit">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
