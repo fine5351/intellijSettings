@@ -158,12 +158,8 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/msgHub.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\MsgHub.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="url" value="file://$USER_HOME$/work/workspace/idea-custom-postfix-template/donation.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\Donation.postfixTemplates" />
+                  <option name="url" value="https://raw.githubusercontent.com/fine5351/idea-custom-plugin-setting/refs/heads/main/custom-postfix-template/normal.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\normal.postfixTemplates" />
                 </VFile>
               </list>
             </value>
