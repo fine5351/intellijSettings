@@ -156,11 +156,6 @@
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/idea-dev.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="url" value="https://raw.githubusercontent.com/fine5351/idea-custom-plugin-setting/refs/heads/main/custom-postfix-template/normal.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\normal.postfixTemplates" />
-                </VFile>
               </list>
             </value>
           </entry>
