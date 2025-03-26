@@ -138,6 +138,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.pipes" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
